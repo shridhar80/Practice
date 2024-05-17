@@ -1,0 +1,14 @@
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\bin\Debug\net8.0\MyBankingApp.exe
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\bin\Debug\net8.0\MyBankingApp.deps.json
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\bin\Debug\net8.0\MyBankingApp.runtimeconfig.json
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\bin\Debug\net8.0\MyBankingApp.dll
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\bin\Debug\net8.0\MyBankingApp.pdb
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\MyBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\MyBankingApp.AssemblyInfoInputs.cache
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\MyBankingApp.AssemblyInfo.cs
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\MyBankingApp.csproj.CoreCompileInputs.cache
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\MyBankingApp.dll
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\refint\MyBankingApp.dll
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\MyBankingApp.pdb
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\MyBankingApp.genruntimeconfig.cache
+D:\TAP\FinacleSolution\FinacleSolution\MyBankingApp\obj\Debug\net8.0\ref\MyBankingApp.dll
