@@ -1,0 +1,14 @@
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\bin\Debug\net8.0\MyDelegateBankingApp.exe
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\bin\Debug\net8.0\MyDelegateBankingApp.deps.json
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\bin\Debug\net8.0\MyDelegateBankingApp.runtimeconfig.json
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\bin\Debug\net8.0\MyDelegateBankingApp.dll
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\bin\Debug\net8.0\MyDelegateBankingApp.pdb
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\MyDelegateBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\MyDelegateBankingApp.AssemblyInfoInputs.cache
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\MyDelegateBankingApp.AssemblyInfo.cs
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\MyDelegateBankingApp.csproj.CoreCompileInputs.cache
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\MyDelegateBankingApp.dll
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\refint\MyDelegateBankingApp.dll
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\MyDelegateBankingApp.pdb
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\MyDelegateBankingApp.genruntimeconfig.cache
+D:\TAP\FinacleSolution\FinacleSolution\MyDelegateBankingApp\obj\Debug\net8.0\ref\MyDelegateBankingApp.dll
