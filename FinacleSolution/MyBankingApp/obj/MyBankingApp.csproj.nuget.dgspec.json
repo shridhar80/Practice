@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TAP\\FinacleSolution\\FinacleSolution\\MyBankingApp\\MyBankingApp.csproj": {}
+    "D:\\TAP\\Practice\\FinacleSolution\\MyBankingApp\\MyBankingApp.csproj": {}
   },
   "projects": {
-    "D:\\TAP\\FinacleSolution\\FinacleSolution\\MyBankingApp\\MyBankingApp.csproj": {
+    "D:\\TAP\\Practice\\FinacleSolution\\MyBankingApp\\MyBankingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TAP\\FinacleSolution\\FinacleSolution\\MyBankingApp\\MyBankingApp.csproj",
+        "projectUniqueName": "D:\\TAP\\Practice\\FinacleSolution\\MyBankingApp\\MyBankingApp.csproj",
         "projectName": "MyBankingApp",
-        "projectPath": "D:\\TAP\\FinacleSolution\\FinacleSolution\\MyBankingApp\\MyBankingApp.csproj",
+        "projectPath": "D:\\TAP\\Practice\\FinacleSolution\\MyBankingApp\\MyBankingApp.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\TAP\\FinacleSolution\\FinacleSolution\\MyBankingApp\\obj\\",
+        "outputPath": "D:\\TAP\\Practice\\FinacleSolution\\MyBankingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

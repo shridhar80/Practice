@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlServerEmpConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9724553279bcd6784e54d8efff063a9becafc20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4e32ed524f69cf89254b5339c2ce50bee445c36")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlServerEmpConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlServerEmpConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
