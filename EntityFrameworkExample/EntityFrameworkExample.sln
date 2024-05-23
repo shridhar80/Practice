@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkExample", "EntityFrameworkExample\EntityFrameworkExample.csproj", "{579091AD-9391-48E9-912D-8720BED4D73F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkExample", "EntityFrameworkExample\EntityFrameworkExample.csproj", "{579091AD-9391-48E9-912D-8720BED4D73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkNMultipleTables", "EntityFrameworkNMultipleTables\EntityFrameworkNMultipleTables.csproj", "{6BF1C711-1786-4C95-ABFC-E094D4B65039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{579091AD-9391-48E9-912D-8720BED4D73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579091AD-9391-48E9-912D-8720BED4D73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{579091AD-9391-48E9-912D-8720BED4D73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF1C711-1786-4C95-ABFC-E094D4B65039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF1C711-1786-4C95-ABFC-E094D4B65039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF1C711-1786-4C95-ABFC-E094D4B65039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF1C711-1786-4C95-ABFC-E094D4B65039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\EntityFrameworkExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{579091AD-9391-48E9-912D-8720BED4D73F}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579091AD-9391-48E9-912D-8720BED4D73F}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{579091AD-9391-48E9-912D-8720BED4D73F}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworkexample\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579091AD-9391-48E9-912D-8720BED4D73F}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{579091AD-9391-48E9-912D-8720BED4D73F}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworkexample\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579091AD-9391-48E9-912D-8720BED4D73F}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\dbcontexts\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\dbcontexts\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{579091AD-9391-48E9-912D-8720BED4D73F}|EntityFrameworkExample\\EntityFrameworkExample.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworkexample\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579091AD-9391-48E9-912D-8720BED4D73F}|EntityFrameworkExample\\EntityFrameworkExample.csproj|solutionrelative:entityframeworkexample\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkExample\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkExample\\EmployeeRepository.cs",
-              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkExample\\EmployeeRepository.cs",
-              "RelativeToolTip": "EntityFrameworkExample\\EmployeeRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAjwCoAAAAuAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkNMultipleTables\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T13:09:41.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HrContext.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkExample\\DbContexts\\HrContext.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkExample\\DbContexts\\HrContext.cs",
-              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkExample\\DbContexts\\HrContext.cs",
-              "RelativeToolTip": "EntityFrameworkExample\\DbContexts\\HrContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA4wBUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:45:50.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkExample\\Entities\\Employees.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkExample\\Entities\\Employees.cs",
-              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkExample\\Entities\\Employees.cs",
-              "RelativeToolTip": "EntityFrameworkExample\\Entities\\Employees.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:40:41.899Z",
+              "WhenOpened": "2024-05-23T08:16:55.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkExample\\Program.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkExample\\Program.cs",
-              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkExample\\Program.cs",
-              "RelativeToolTip": "EntityFrameworkExample\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAB1AAAA",
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Repositories\\BlogRepository.cs",
+              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "EntityFrameworkNMultipleTables\\Repositories\\BlogRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:38:22.19Z",
+              "WhenOpened": "2024-05-23T07:06:12.689Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\DbContexts\\BlogContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\DbContexts\\BlogContext.cs",
+              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\DbContexts\\BlogContext.cs",
+              "RelativeToolTip": "EntityFrameworkNMultipleTables\\DbContexts\\BlogContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:56:32.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Entities\\Post.cs",
+              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Post.cs",
+              "RelativeToolTip": "EntityFrameworkNMultipleTables\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:40:05.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Entities\\Blog.cs",
+              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Blog.cs",
+              "RelativeToolTip": "EntityFrameworkNMultipleTables\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:39:05.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Entities\\Author.cs",
+              "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Author.cs",
+              "RelativeToolTip": "EntityFrameworkNMultipleTables\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:37:05.676Z"
             }
           ]
         }
