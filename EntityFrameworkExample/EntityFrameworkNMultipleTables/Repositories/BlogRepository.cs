@@ -44,9 +44,9 @@ namespace EntityFrameworkNMultipleTables.Repositories
         {
             var context = new BlogContext();
 
-            var author = new Author { Name = "codeWithHarry" };
-            author.Blogs = new List<Blog> {
-                new Blog{Title = "education" ,
+            var author = new Author { Name = "Ravi Tambade" };
+                 author.Blogs = new List<Blog> {
+                 new Blog{Title = "education" ,
                     Posts= new List<Post>
                     {
                         new Post{Title="coding" },
@@ -56,9 +56,9 @@ namespace EntityFrameworkNMultipleTables.Repositories
                 new Blog{Title = "teaching" ,
                     Posts= new List<Post>
                     {
-                        new Post{Title="c" },
-                        new Post{Title="c++"}
-                }
+                        new Post{Title="c#" },
+                        new Post{Title="dot net"}
+                    }
                 }
 
             };
