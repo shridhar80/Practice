@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationWithRazorPages", "WebApplicationWithRazorPages\WebApplicationWithRazorPages.csproj", "{0DE68129-2AD3-4A5F-82B2-C05E3EB6D5E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationWithRazorPages", "WebApplicationWithRazorPages\WebApplicationWithRazorPages.csproj", "{0DE68129-2AD3-4A5F-82B2-C05E3EB6D5E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationWithEntityClassess", "WebApplicationWithEntityClassess\WebApplicationWithEntityClassess.csproj", "{2C2D7A76-A60D-4BAA-9B7B-C308F46D6CA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationWithEntityClassess", "WebApplicationWithEntityClassess\WebApplicationWithEntityClassess.csproj", "{2C2D7A76-A60D-4BAA-9B7B-C308F46D6CA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationWithController", "WebApplicationWithController\WebApplicationWithController.csproj", "{07A4BA08-A679-4B6D-A14D-4291715B10DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationWithController", "WebApplicationWithController\WebApplicationWithController.csproj", "{07A4BA08-A679-4B6D-A14D-4291715B10DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationForCrudOperatin", "WebApplicationForCrudOperatin\WebApplicationForCrudOperatin.csproj", "{DCDBD999-B0D0-4F6A-884A-10AB8680F96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogerMVCApp", "BlogerMVCApp\BlogerMVCApp.csproj", "{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{07A4BA08-A679-4B6D-A14D-4291715B10DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A4BA08-A679-4B6D-A14D-4291715B10DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A4BA08-A679-4B6D-A14D-4291715B10DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDBD999-B0D0-4F6A-884A-10AB8680F96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDBD999-B0D0-4F6A-884A-10AB8680F96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDBD999-B0D0-4F6A-884A-10AB8680F96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDBD999-B0D0-4F6A-884A-10AB8680F96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

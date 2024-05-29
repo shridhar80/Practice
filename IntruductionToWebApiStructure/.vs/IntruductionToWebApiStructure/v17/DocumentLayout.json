@@ -3,32 +3,56 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\webapplicationwithcontroller\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|solutionrelative:webapplicationwithcontroller\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\webapplicationwithcontroller\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|solutionrelative:webapplicationwithcontroller\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\customer\\getallcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\customer\\getallcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\webapplicationwithcontroller\\entities\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|solutionrelative:webapplicationwithcontroller\\entities\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\webapplicationwithcontroller\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|solutionrelative:webapplicationwithcontroller\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\customer\\addnewcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\customer\\addnewcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\webapplicationwithcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|solutionrelative:webapplicationwithcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\customer\\removecustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\customer\\removecustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\webapplicationwithcontroller\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A4BA08-A679-4B6D-A14D-4291715B10DF}|WebApplicationWithController\\WebApplicationWithController.csproj|solutionrelative:webapplicationwithcontroller\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2D7A76-A60D-4BAA-9B7B-C308F46D6CA4}|WebApplicationWithEntityClassess\\WebApplicationWithEntityClassess.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\webapplicationwithentityclassess\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2D7A76-A60D-4BAA-9B7B-C308F46D6CA4}|WebApplicationWithEntityClassess\\WebApplicationWithEntityClassess.csproj|solutionrelative:webapplicationwithentityclassess\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\controllers\\authcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\controllers\\authcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\authcontroller1\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\authcontroller1\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\authcontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\authcontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\authcontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\authcontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +62,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "WebApplicationWithController\\Controllers\\BlogController.cs",
-              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "WebApplicationWithController\\Controllers\\BlogController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T13:14:28.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplicationWithController\\Program.cs",
-              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Program.cs",
-              "RelativeToolTip": "WebApplicationWithController\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:52:24.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "WebApplicationWithController\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "WebApplicationWithController\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:56:24.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Posts.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Entities\\Posts.cs",
-              "RelativeDocumentMoniker": "WebApplicationWithController\\Entities\\Posts.cs",
-              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Entities\\Posts.cs",
-              "RelativeToolTip": "WebApplicationWithController\\Entities\\Posts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:55:10.825Z",
+              "Title": "RemoveCustomers.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\RemoveCustomers.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\Customer\\RemoveCustomers.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\RemoveCustomers.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\Customer\\RemoveCustomers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:26:13.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Entities\\Blog.cs",
-              "RelativeDocumentMoniker": "WebApplicationWithController\\Entities\\Blog.cs",
-              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Entities\\Blog.cs",
-              "RelativeToolTip": "WebApplicationWithController\\Entities\\Blog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "AddNewCustomer.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\AddNewCustomer.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\Customer\\AddNewCustomer.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\AddNewCustomer.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\Customer\\AddNewCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:25:21.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllCustomers.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:22:58.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Models\\Customer.cs",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Models\\Customer.cs",
+              "RelativeToolTip": "BlogerMVCApp\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:54:38.336Z",
+              "WhenOpened": "2024-05-29T11:20:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BlogerMVCApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:20:05.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:17:08.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:16:25.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Products.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Entities\\Products.cs",
-              "RelativeDocumentMoniker": "WebApplicationWithController\\Entities\\Products.cs",
-              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithController\\Entities\\Products.cs",
-              "RelativeToolTip": "WebApplicationWithController\\Entities\\Products.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BlogerMVCApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:54:03.182Z"
+              "WhenOpened": "2024-05-29T11:15:59.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Products.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithEntityClassess\\Entities\\Products.cs",
-              "RelativeDocumentMoniker": "WebApplicationWithEntityClassess\\Entities\\Products.cs",
-              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\WebApplicationWithEntityClassess\\Entities\\Products.cs",
-              "RelativeToolTip": "WebApplicationWithEntityClassess\\Entities\\Products.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:10:56.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\AuthController1\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\AuthController1\\ForgetPassword.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\AuthController1\\ForgetPassword.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\AuthController1\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:07:39.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\AuthController1\\Register.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\AuthController1\\Register.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\AuthController1\\Register.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\AuthController1\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:06:18.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\AuthController1\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\AuthController1\\LogIn.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\AuthController1\\LogIn.cshtml",
+              "RelativeToolTip": "BlogerMVCApp\\Views\\AuthController1\\LogIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:05:16.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController1.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\AuthController1.cs",
+              "RelativeDocumentMoniker": "BlogerMVCApp\\Controllers\\AuthController1.cs",
+              "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\AuthController1.cs",
+              "RelativeToolTip": "BlogerMVCApp\\Controllers\\AuthController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:18:52.305Z"
+              "WhenOpened": "2024-05-29T11:02:34.865Z",
+              "EditorCaption": ""
             }
           ]
         }

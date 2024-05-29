@@ -1,0 +1,26 @@
+﻿@model List<BlogerMVCApp.Models.Customer>
+@{
+}
+<h1>All Customers ....</h1>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Contact</th>
+       
+    </tr>
+@if(Model != null)
+{
+    foreach(var customer in Model)
+    {
+       <tr>
+           <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.Address</td>
+                <td>@customer.Contact</td>
+
+       </tr> 
+    }
+
+}
