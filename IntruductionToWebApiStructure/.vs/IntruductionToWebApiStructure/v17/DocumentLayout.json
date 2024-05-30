@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\customer\\getallcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\customer\\getallcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -74,8 +74,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Views\\Customer\\RemoveCustomers.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:26:13.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:26:13.356Z"
             },
             {
               "$type": "Document",
@@ -87,18 +86,17 @@
               "RelativeToolTip": "BlogerMVCApp\\Views\\Customer\\AddNewCustomer.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:25:21.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:25:21.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GetAllCustomers.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
               "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
               "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
               "RelativeToolTip": "BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-29T11:22:58.541Z",
               "EditorCaption": ""
@@ -113,18 +111,17 @@
               "RelativeToolTip": "BlogerMVCApp\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:20:57.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:20:57.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "BlogerMVCApp\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "BlogerMVCApp\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T11:20:05.193Z",
               "EditorCaption": ""
@@ -139,8 +136,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Views\\Product\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:17:08.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:17:08.338Z"
             },
             {
               "$type": "Document",
@@ -152,8 +148,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:16:25.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:16:25.761Z"
             },
             {
               "$type": "Document",
@@ -165,8 +160,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:15:59.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:15:59.089Z"
             },
             {
               "$type": "Document",
@@ -178,8 +172,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:10:56.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:10:56.125Z"
             },
             {
               "$type": "Document",
@@ -191,8 +184,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Views\\AuthController1\\ForgetPassword.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:07:39.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:07:39.432Z"
             },
             {
               "$type": "Document",
@@ -204,8 +196,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Views\\AuthController1\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:06:18.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:06:18.349Z"
             },
             {
               "$type": "Document",
@@ -217,8 +208,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Views\\AuthController1\\LogIn.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T11:05:16.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:05:16.036Z"
             },
             {
               "$type": "Document",
@@ -230,8 +220,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Controllers\\AuthController1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:02:34.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:02:34.865Z"
             }
           ]
         }

@@ -1,0 +1,27 @@
+﻿@model List<TFLECommerce_May2024.Models.Customer>
+@{
+}
+<h1>All Customers ....</h1>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Contact</th>
+
+    </tr>
+ </table>
+    @if (Model != null)
+    {
+        foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.Email</td>
+                <td>@customer.Phone</td>
+
+            </tr>
+        }
+
+    }
