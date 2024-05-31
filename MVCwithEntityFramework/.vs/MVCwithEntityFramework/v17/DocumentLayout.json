@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\Practice\\MVCwithEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\tap\\practice\\mvcwithentityframework\\tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\tap\\practice\\mvcwithentityframework\\tflecommerce_may2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRContext.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\DbContexts\\HRContext.cs",
+              "RelativeDocumentMoniker": "TFLECommerce_May2024\\DbContexts\\HRContext.cs",
+              "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\DbContexts\\HRContext.cs",
+              "RelativeToolTip": "TFLECommerce_May2024\\DbContexts\\HRContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:58:35.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\appsettings.json",
+              "RelativeDocumentMoniker": "TFLECommerce_May2024\\appsettings.json",
+              "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\appsettings.json",
+              "RelativeToolTip": "TFLECommerce_May2024\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T18:58:24.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
