@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\MVCwithEntityFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\tap\\practice\\mvcwithentityframework\\tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\tap\\practice\\mvcwithentityframework\\tflecommerce_may2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\dbcontexts\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\dbcontexts\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\tap\\practice\\mvcwithentityframework\\tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "HRContext.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\DbContexts\\HRContext.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\DbContexts\\HRContext.cs",
               "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\DbContexts\\HRContext.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\DbContexts\\HRContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T18:58:35.573Z",
+              "WhenOpened": "2024-06-01T06:29:00.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomerMVC\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "CustomerMVC\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T05:55:29.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerMVC\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerMVC\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:51:31.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\appsettings.json",
-              "RelativeDocumentMoniker": "TFLECommerce_May2024\\appsettings.json",
-              "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\appsettings.json",
-              "RelativeToolTip": "TFLECommerce_May2024\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-31T18:58:24.542Z",
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerMVC\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerMVC\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:43:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\DbContexts\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "CustomerMVC\\DbContexts\\CustomerContext.cs",
+              "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\DbContexts\\CustomerContext.cs",
+              "RelativeToolTip": "CustomerMVC\\DbContexts\\CustomerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:12:56.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerMVC\\Entities\\Customer.cs",
+              "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Entities\\Customer.cs",
+              "RelativeToolTip": "CustomerMVC\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:11:09.714Z",
               "EditorCaption": ""
             }
           ]

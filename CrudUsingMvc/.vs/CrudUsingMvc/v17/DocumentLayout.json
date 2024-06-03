@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\Practice\\CrudUsingMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\views\\products\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\views\\products\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|d:\\tap\\practice\\crudusingmvc\\crudusingmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD28EA1-5721-4074-8431-948A0BBDFD36}|CrudUsingMvc\\CrudUsingMvc.csproj|solutionrelative:crudusingmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Views\\Products\\Insert.cshtml",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Views\\Products\\Insert.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Views\\Products\\Insert.cshtml",
+              "RelativeToolTip": "CrudUsingMvc\\Views\\Products\\Insert.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T12:50:57.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Views\\Products\\Update.cshtml",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Views\\Products\\Update.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Views\\Products\\Update.cshtml",
+              "RelativeToolTip": "CrudUsingMvc\\Views\\Products\\Update.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:44:50.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "CrudUsingMvc\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:22:04.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CrudUsingMvc\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T21:21:00.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Program.cs",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Program.cs",
+              "RelativeToolTip": "CrudUsingMvc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:10:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CrudUsingMvc\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:05:27.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Services\\ProductService.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Services\\ProductService.cs",
+              "RelativeToolTip": "CrudUsingMvc\\Services\\ProductService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:48:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Services\\IProductService.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Services\\IProductService.cs",
+              "RelativeToolTip": "CrudUsingMvc\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:47:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CrudUsingMvc\\Models\\Product.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CrudUsingMvc\\Models\\Product.cs",
+              "RelativeToolTip": "CrudUsingMvc\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:44:39.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
