@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>List Of Customers...</h2>
+<a href="/customer/insert">Insert</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <label>Id</label>
+            </th>
+            <th>
+                <label>Name</label>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            List<Customer> allCustomer = (List<Customer>)ViewData["allCustomers"];
+        }
+        @foreach(var item in allCustomer)
+        {
+            <tr>
+                <td>
+                    <p>@item.Id</p>
+                </td>
+                <td>
+                    <p>@item.Name</p>
+                </td>
+                <td>
+                    <a href="/customer/details/@item.Id">Details</a>
+                </td>
+
+                <td>
+                    <a href="/customer/delete/@item.Id">Remove</a>
+                </td>
+
+                <td>
+                    <a href="/customer/edit/@item.Id">Update</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

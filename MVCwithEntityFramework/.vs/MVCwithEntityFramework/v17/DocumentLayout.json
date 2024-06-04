@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\dbcontexts\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\tap\\practice\\mvcwithentityframework\\tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "HRContext.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\DbContexts\\HRContext.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\DbContexts\\HRContext.cs",
@@ -50,16 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "CustomerMVC\\Views\\Customers\\Index.cshtml",
               "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Views\\Customers\\Index.cshtml",
               "RelativeToolTip": "CustomerMVC\\Views\\Customers\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABPAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T05:55:29.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T05:55:29.736Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "CustomerMVC\\Controllers\\CustomersController.cs",
               "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "CustomerMVC\\Controllers\\CustomersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T05:51:31.883Z",
               "EditorCaption": ""
@@ -82,7 +81,7 @@
               "RelativeDocumentMoniker": "CustomerMVC\\Repositories\\CustomerRepository.cs",
               "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Repositories\\CustomerRepository.cs",
               "RelativeToolTip": "CustomerMVC\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T05:43:42.046Z",
               "EditorCaption": ""
@@ -95,23 +94,22 @@
               "RelativeDocumentMoniker": "CustomerMVC\\DbContexts\\CustomerContext.cs",
               "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\DbContexts\\CustomerContext.cs",
               "RelativeToolTip": "CustomerMVC\\DbContexts\\CustomerContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T05:12:56.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "CustomerMVC\\Entities\\Customer.cs",
               "ToolTip": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Entities\\Customer.cs",
               "RelativeToolTip": "CustomerMVC\\Entities\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T05:11:09.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T05:11:09.714Z"
             }
           ]
         }

@@ -1,0 +1,33 @@
+﻿@model CrudMvcEntity.Models.Customer
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form method="post" action="edit">
+    <div>
+        <div class="form-group">
+            <label class="control-label">Id</label>
+            <input asp-for="Id" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label class="control-label">Email</label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label class="control-label">Phone</label>
+            <input asp-for="Phone" class="form-control" />
+        </div>
+        <br />
+
+        <button type="submit" class="btn btn-primary">Update</button>
+
+
+    </div>
+
+</form>
