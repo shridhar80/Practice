@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\customer\\getallcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\views\\customer\\getallcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|solutionrelative:blogermvcapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DD5FF5E-2F42-4B32-AAC4-9C488C31A973}|BlogerMVCApp\\BlogerMVCApp.csproj|d:\\tap\\practice\\intruductiontowebapistructure\\blogermvcapp\\views\\customer\\addnewcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GetAllCustomers.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
               "RelativeDocumentMoniker": "BlogerMVCApp\\Views\\Customer\\GetAllCustomers.cshtml",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "BlogerMVCApp\\Models\\Customer.cs",
@@ -111,11 +111,12 @@
               "RelativeToolTip": "BlogerMVCApp\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:20:57.673Z"
+              "WhenOpened": "2024-05-29T11:20:57.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\IntruductionToWebApiStructure\\BlogerMVCApp\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "BlogerMVCApp\\Controllers\\CustomerController.cs",
@@ -123,8 +124,7 @@
               "RelativeToolTip": "BlogerMVCApp\\Controllers\\CustomerController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T11:20:05.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T11:20:05.193Z"
             },
             {
               "$type": "Document",

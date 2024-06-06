@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\MVCwithEntityFramework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\tap\\practice\\mvcwithentityframework\\tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6511FFE8-430E-4F97-AE03-3AA9DE68219C}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|d:\\tap\\practice\\mvcwithentityframework\\customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D418ED-08BC-4C0F-B237-F2F4014432F7}|CustomerMVC\\CustomerMVC.csproj|solutionrelative:customermvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HRContext.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\TFLECommerce_May2024\\DbContexts\\HRContext.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\DbContexts\\HRContext.cs",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "CustomerMVC\\Views\\Customers\\Index.cshtml",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "CustomerMVC\\Controllers\\CustomersController.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "CustomerMVC\\Repositories\\CustomerRepository.cs",
@@ -83,12 +83,11 @@
               "RelativeToolTip": "CustomerMVC\\Repositories\\CustomerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T05:43:42.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T05:43:42.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomerContext.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\DbContexts\\CustomerContext.cs",
               "RelativeDocumentMoniker": "CustomerMVC\\DbContexts\\CustomerContext.cs",
@@ -96,12 +95,11 @@
               "RelativeToolTip": "CustomerMVC\\DbContexts\\CustomerContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T05:12:56.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T05:12:56.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\MVCwithEntityFramework\\CustomerMVC\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "CustomerMVC\\Entities\\Customer.cs",
@@ -109,7 +107,8 @@
               "RelativeToolTip": "CustomerMVC\\Entities\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T05:11:09.714Z"
+              "WhenOpened": "2024-06-01T05:11:09.714Z",
+              "EditorCaption": ""
             }
           ]
         }

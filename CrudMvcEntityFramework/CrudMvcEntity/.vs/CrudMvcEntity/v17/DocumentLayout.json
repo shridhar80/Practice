@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\views\\customer\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\views\\customer\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,24 +23,12 @@
       "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\views\\customer\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\views\\customer\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|d:\\tap\\practice\\crudmvcentityframework\\crudmvcentity\\crudmvcentity\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D37BB405-3AD1-45F5-A3C9-93A41644A6B2}|CrudMvcEntity\\CrudMvcEntity.csproj|solutionrelative:crudmvcentity\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Views\\Customer\\Edit.cshtml",
               "RelativeDocumentMoniker": "CrudMvcEntity\\Views\\Customer\\Edit.cshtml",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "CrudMvcEntity\\Views\\Customer\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T10:43:53.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T10:43:53.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Insert.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Views\\Customer\\Insert.cshtml",
               "RelativeDocumentMoniker": "CrudMvcEntity\\Views\\Customer\\Insert.cshtml",
@@ -68,20 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "CrudMvcEntity\\Views\\Customer\\Index.cshtml",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Views\\Customer\\Index.cshtml",
               "RelativeToolTip": "CrudMvcEntity\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-04T09:17:09.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Views\\Customer\\Details.cshtml",
               "RelativeDocumentMoniker": "CrudMvcEntity\\Views\\Customer\\Details.cshtml",
@@ -93,20 +92,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "CrudMvcEntity\\Services\\CustomerService.cs",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Services\\CustomerService.cs",
               "RelativeToolTip": "CrudMvcEntity\\Services\\CustomerService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA3wCMAAAAIAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T08:54:38.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T08:54:38.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Repository\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "CrudMvcEntity\\Repository\\CustomerRepository.cs",
@@ -119,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "CrudMvcEntity\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "CrudMvcEntity\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAkwDMAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T06:52:55.753Z",
               "EditorCaption": ""
