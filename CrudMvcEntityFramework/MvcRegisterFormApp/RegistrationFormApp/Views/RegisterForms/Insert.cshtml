@@ -1,4 +1,5 @@
-﻿@*
+﻿@model RegistrationFormApp.Models.RegisterForm
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
@@ -35,7 +36,7 @@
             <label for="other">Other</label>
 
         </div>
-        <div class="mb-3">
+       @*  <div class="mb-3">
             <label for="" class="form-label">Select Language : </label>
             <input type="checkbox" id="marathi" name="marathi" value="Marathi">
             <label for="marathi"> Marathi</label><br>
@@ -44,6 +45,23 @@
             <input type="checkbox" id="hindi" name="hindi" value="Hindi">
             <label for="hindi"> Hindi</label><br><br>
 
+        </div> *@
+
+        <div class="form-group">
+            <table>
+                @{
+                    List<SelectListItem> languages = Model.Languages;
+                    foreach (var lan in languages)
+                    {
+                        <td>
+                            <input type="checkbox" id="@lan.Value" value="@lan.Value" name="languages" checked="@lan.Selected" />
+                        </td>
+                        <td>
+                            <label for="@lan.Value" class="control-label">@lan.Value</label>
+                        </td>
+                    }
+                }
+            </table>
         </div>
 
         <div class="mb-3">

@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\dbcontexts\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\dbcontexts\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|d:\\tap\\practice\\entityframeworkexample\\entityframeworknmultipletables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C711-1786-4C95-ABFC-E094D4B65039}|EntityFrameworkNMultipleTables\\EntityFrameworkNMultipleTables.csproj|solutionrelative:entityframeworknmultipletables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Program.cs",
               "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Program.cs",
@@ -56,26 +56,27 @@
               "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Repositories\\BlogRepository.cs",
               "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Repositories\\BlogRepository.cs",
               "RelativeToolTip": "EntityFrameworkNMultipleTables\\Repositories\\BlogRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T07:06:12.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BlogContext.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\DbContexts\\BlogContext.cs",
               "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\DbContexts\\BlogContext.cs",
               "ToolTip": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\DbContexts\\BlogContext.cs",
               "RelativeToolTip": "EntityFrameworkNMultipleTables\\DbContexts\\BlogContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBQAAAA6AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:56:32.33Z"
+              "WhenOpened": "2024-05-23T06:56:32.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Entities\\Post.cs",
@@ -83,11 +84,12 @@
               "RelativeToolTip": "EntityFrameworkNMultipleTables\\Entities\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:40:05.188Z"
+              "WhenOpened": "2024-05-23T06:40:05.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Blog.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Blog.cs",
               "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Entities\\Blog.cs",
@@ -95,11 +97,12 @@
               "RelativeToolTip": "EntityFrameworkNMultipleTables\\Entities\\Blog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T05:39:05.322Z"
+              "WhenOpened": "2024-05-23T05:39:05.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\EntityFrameworkExample\\EntityFrameworkNMultipleTables\\Entities\\Author.cs",
               "RelativeDocumentMoniker": "EntityFrameworkNMultipleTables\\Entities\\Author.cs",
@@ -107,7 +110,8 @@
               "RelativeToolTip": "EntityFrameworkNMultipleTables\\Entities\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T05:37:05.676Z"
+              "WhenOpened": "2024-05-23T05:37:05.676Z",
+              "EditorCaption": ""
             }
           ]
         }

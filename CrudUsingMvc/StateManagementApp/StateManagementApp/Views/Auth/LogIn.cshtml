@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model StateManagementApp.Models.Claim
+<h2>LogIn</h2>
+<hr/>
+
+<a href="/auth/register">New Registration</a>
+<div class="row">
+    <div class="col-me-4">
+        <form asp-action="Login" method="post">
+            <div class="form-group">
+                <label asp-for="Email" class="control-lable"></label>
+                <input asp-for="Email" class="control-control"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-lable"></label>
+                <input asp-for="Password" class="control-control" />
+            </div>
+            <div>
+                <input type="submit" value="Login" class="btn btn-default"/>
+            </div>
+        </form>
+
+    </div>
+</div>

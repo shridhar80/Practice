@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Local Storage </h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            <label class="control-lable"></label>
+            <input class="control-control" id="email" name="email"/>
+        </div>
+
+        <div class="form-group">
+            <label class="control-lable"></label>
+            <input class="control-control" id="password" name="password" />
+
+            <div class="form-group"><button onclick="rememberMe()">Remeber Me</button></div>
+        </div>
+
+    </div>
+
+    <div class="col-md-8">
+        <label id="labEmail">Showing Email</label>
+        <label id="labPassword">Showing Password</label>
+
+        <div class="form-group">
+            <button onclick="getlocalstorageData()">LocalStorage</button>
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+    function rememberMe(){
+        var email = document.getElementById("email").value;
+        var password = document.getElementById("password").value;
+
+        console.log(email + " " + password);
+
+        localStorage.setItem("email", email);
+        localStorage.setItem("password", password);
+
+        
+    }
+    function getlocalstorageData() {
+        alert("get local storage button is clicked...");
+        var email = localStorage.getItem("email");
+        var password = localStorage.getItem("password");
+
+        console.log("data from local storage = " + email + " " + password);
+
+        var lblEmail = document.getElementById("lblEmail");
+        var lblPassword = document.getElementById("lblPassword");
+
+        lblEmail.innerHTML = email;
+        lblPassword.innerHTML = password;
+    }
+    
+    
+</script>

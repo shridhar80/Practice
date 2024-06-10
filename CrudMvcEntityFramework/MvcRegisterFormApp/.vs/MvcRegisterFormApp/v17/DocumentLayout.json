@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\controllers\\registerformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\controllers\\registerformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\views\\registerforms\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\registerforms\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\views\\registerforms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\registerforms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\models\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\models\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\controllers\\registerformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\controllers\\registerformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +19,24 @@
       "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\services\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\models\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\models\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\datacontext\\dbcontextregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\datacontext\\dbcontextregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\views\\registerforms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\registerforms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|d:\\tap\\practice\\crudmvcentityframework\\mvcregisterformapp\\registrationformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E225DD-6203-4799-B707-6C070A765EA3}|RegistrationFormApp\\RegistrationFormApp.csproj|solutionrelative:registrationformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Views\\Home\\Index.cshtml",
@@ -67,20 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "RegistrationFormApp\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "RegistrationFormApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAABkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T09:19:58.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Program.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Program.cs",
@@ -88,95 +71,95 @@
               "RelativeToolTip": "RegistrationFormApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:36:09.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T07:36:09.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Insert.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Views\\RegisterForms\\Insert.cshtml",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Views\\RegisterForms\\Insert.cshtml",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Views\\RegisterForms\\Insert.cshtml",
               "RelativeToolTip": "RegistrationFormApp\\Views\\RegisterForms\\Insert.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-06T07:34:12.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Views\\RegisterForms\\Index.cshtml",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Views\\RegisterForms\\Index.cshtml",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Views\\RegisterForms\\Index.cshtml",
               "RelativeToolTip": "RegistrationFormApp\\Views\\RegisterForms\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAIAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-06T07:33:05.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RegisterFormsController.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Controllers\\RegisterFormsController.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Controllers\\RegisterFormsController.cs",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Controllers\\RegisterFormsController.cs",
               "RelativeToolTip": "RegistrationFormApp\\Controllers\\RegisterFormsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBwAAAAIAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T07:32:22.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "DbContextRegisterForm.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\DataContext\\DbContextRegisterForm.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\DataContext\\DbContextRegisterForm.cs",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\DataContext\\DbContextRegisterForm.cs",
               "RelativeToolTip": "RegistrationFormApp\\DataContext\\DbContextRegisterForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T07:30:53.399Z"
+              "WhenOpened": "2024-06-06T07:30:53.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "IRegisterService.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Services\\IRegisterService.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Services\\IRegisterService.cs",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Services\\IRegisterService.cs",
               "RelativeToolTip": "RegistrationFormApp\\Services\\IRegisterService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T07:28:30.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "RegisterService.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Services\\RegisterService.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Services\\RegisterService.cs",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Services\\RegisterService.cs",
               "RelativeToolTip": "RegistrationFormApp\\Services\\RegisterService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T07:28:02.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Models\\RegisterForm.cs",
               "RelativeDocumentMoniker": "RegistrationFormApp\\Models\\RegisterForm.cs",
               "ToolTip": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\MvcRegisterFormApp\\RegistrationFormApp\\Models\\RegisterForm.cs",
               "RelativeToolTip": "RegistrationFormApp\\Models\\RegisterForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T07:26:21.543Z",
               "EditorCaption": ""

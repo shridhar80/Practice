@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcRegisterFormApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef56909349288eb0ad625cf8860352305034c46c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1efab960b88d44d334e75f3538f38764bae72e51")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcRegisterFormApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcRegisterFormApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
