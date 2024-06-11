@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Shopping Carts</h1>
+
+@{
+    Cart cart = (Cart)ViewData["mycart"];
+    if(cart != null)
+    {
+        foreach (string item in cart.Items)
+        {
+            <h2>@item</h2>
+        }
+    }
+    else
+    {
+        <h2>your cart is empty...</h2>
+    }
+
+}

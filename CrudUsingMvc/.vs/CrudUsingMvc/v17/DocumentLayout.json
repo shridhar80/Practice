@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\CrudUsingMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|d:\\tap\\practice\\crudusingmvc\\cookiesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|solutionrelative:cookiesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1BCE726-84F4-4AE7-9903-7907823122B6}|CartSessionMgmt\\CartSessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\cartsessionmgmt\\views\\shoppingcart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BCE726-84F4-4AE7-9903-7907823122B6}|CartSessionMgmt\\CartSessionMgmt.csproj|solutionrelative:cartsessionmgmt\\views\\shoppingcart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|d:\\tap\\practice\\crudusingmvc\\cookiesapp\\views\\home\\readquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|solutionrelative:cookiesapp\\views\\home\\readquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1BCE726-84F4-4AE7-9903-7907823122B6}|CartSessionMgmt\\CartSessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\cartsessionmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BCE726-84F4-4AE7-9903-7907823122B6}|CartSessionMgmt\\CartSessionMgmt.csproj|solutionrelative:cartsessionmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|d:\\tap\\practice\\crudusingmvc\\cookiesapp\\views\\home\\displaycookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|solutionrelative:cookiesapp\\views\\home\\displaycookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1BCE726-84F4-4AE7-9903-7907823122B6}|CartSessionMgmt\\CartSessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\cartsessionmgmt\\controllers\\shoppingcartcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BCE726-84F4-4AE7-9903-7907823122B6}|CartSessionMgmt\\CartSessionMgmt.csproj|solutionrelative:cartsessionmgmt\\controllers\\shoppingcartcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|d:\\tap\\practice\\crudusingmvc\\cookiesapp\\views\\home\\createcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|solutionrelative:cookiesapp\\views\\home\\createcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B1BCE726-84F4-4AE7-9903-7907823122B6}|CartSessionMgmt\\CartSessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\cartsessionmgmt\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BCE726-84F4-4AE7-9903-7907823122B6}|CartSessionMgmt\\CartSessionMgmt.csproj|solutionrelative:cartsessionmgmt\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReadQueryString.cshtml",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\ReadQueryString.cshtml",
-              "RelativeDocumentMoniker": "CookiesApp\\Views\\Home\\ReadQueryString.cshtml",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\ReadQueryString.cshtml",
-              "RelativeToolTip": "CookiesApp\\Views\\Home\\ReadQueryString.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "DocumentIndex": 0,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CartSessionMgmt\\Views\\ShoppingCart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "CartSessionMgmt\\Views\\ShoppingCart\\Cart.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CartSessionMgmt\\Views\\ShoppingCart\\Cart.cshtml",
+              "RelativeToolTip": "CartSessionMgmt\\Views\\ShoppingCart\\Cart.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T08:20:39.239Z",
+              "WhenOpened": "2024-06-11T12:32:16.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DisplayCookies.cshtml",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\DisplayCookies.cshtml",
-              "RelativeDocumentMoniker": "CookiesApp\\Views\\Home\\DisplayCookies.cshtml",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\DisplayCookies.cshtml",
-              "RelativeToolTip": "CookiesApp\\Views\\Home\\DisplayCookies.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T08:16:51.904Z",
+              "Title": "ShoppingCartController .cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CartSessionMgmt\\Controllers\\ShoppingCartController .cs",
+              "RelativeDocumentMoniker": "CartSessionMgmt\\Controllers\\ShoppingCartController .cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CartSessionMgmt\\Controllers\\ShoppingCartController .cs",
+              "RelativeToolTip": "CartSessionMgmt\\Controllers\\ShoppingCartController .cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:29:09.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Createcookies.cshtml",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\Createcookies.cshtml",
-              "RelativeDocumentMoniker": "CookiesApp\\Views\\Home\\Createcookies.cshtml",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\Createcookies.cshtml",
-              "RelativeToolTip": "CookiesApp\\Views\\Home\\Createcookies.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T08:13:12.113Z",
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CartSessionMgmt\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "CartSessionMgmt\\Models\\Cart.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CartSessionMgmt\\Models\\Cart.cs",
+              "RelativeToolTip": "CartSessionMgmt\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:28:11.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CookiesApp\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CookiesApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAzwCYAAAAsAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CartSessionMgmt\\Program.cs",
+              "RelativeDocumentMoniker": "CartSessionMgmt\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CartSessionMgmt\\Program.cs",
+              "RelativeToolTip": "CartSessionMgmt\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T08:09:30.879Z",
+              "WhenOpened": "2024-06-11T12:12:24.426Z",
               "EditorCaption": ""
             }
           ]

@@ -82,8 +82,7 @@
               "RelativeToolTip": "StateManagementApp\\Views\\StateMgmt\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T10:48:01.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:48:01.061Z"
             },
             {
               "$type": "Document",
@@ -93,7 +92,7 @@
               "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\StateMgmtController.cs",
               "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Controllers\\StateMgmtController.cs",
               "RelativeToolTip": "StateManagementApp\\Controllers\\StateMgmtController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T10:46:45.983Z",
               "EditorCaption": ""
