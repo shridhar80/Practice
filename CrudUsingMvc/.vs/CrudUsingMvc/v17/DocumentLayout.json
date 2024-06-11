@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\CrudUsingMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\sessionmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|solutionrelative:sessionmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|d:\\tap\\practice\\crudusingmvc\\cookiesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|solutionrelative:cookiesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\sessionmgmt\\views\\home\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|solutionrelative:sessionmgmt\\views\\home\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|d:\\tap\\practice\\crudusingmvc\\cookiesapp\\views\\home\\readquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|solutionrelative:cookiesapp\\views\\home\\readquerystring.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\sessionmgmt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|solutionrelative:sessionmgmt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|d:\\tap\\practice\\crudusingmvc\\cookiesapp\\views\\home\\displaycookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|solutionrelative:cookiesapp\\views\\home\\displaycookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\sessionmgmt\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|solutionrelative:sessionmgmt\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|d:\\tap\\practice\\crudusingmvc\\sessionmgmt\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E34705-6817-4CC6-8B5F-BF9F083452CA}|SessionMgmt\\SessionMgmt.csproj|solutionrelative:sessionmgmt\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|d:\\tap\\practice\\crudusingmvc\\cookiesapp\\views\\home\\createcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6337E2FC-BF76-4936-A60D-55089D6A2AF4}|CookiesApp\\CookiesApp.csproj|solutionrelative:cookiesapp\\views\\home\\createcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LogOut.cshtml",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Views\\Home\\LogOut.cshtml",
-              "RelativeDocumentMoniker": "SessionMgmt\\Views\\Home\\LogOut.cshtml",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Views\\Home\\LogOut.cshtml",
-              "RelativeToolTip": "SessionMgmt\\Views\\Home\\LogOut.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Title": "ReadQueryString.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\ReadQueryString.cshtml",
+              "RelativeDocumentMoniker": "CookiesApp\\Views\\Home\\ReadQueryString.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\ReadQueryString.cshtml",
+              "RelativeToolTip": "CookiesApp\\Views\\Home\\ReadQueryString.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T11:08:01.196Z",
+              "WhenOpened": "2024-06-11T08:20:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayCookies.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\DisplayCookies.cshtml",
+              "RelativeDocumentMoniker": "CookiesApp\\Views\\Home\\DisplayCookies.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\DisplayCookies.cshtml",
+              "RelativeToolTip": "CookiesApp\\Views\\Home\\DisplayCookies.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:16:51.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "SessionMgmt\\Views\\Home\\About.cshtml",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "SessionMgmt\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Title": "Createcookies.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\Createcookies.cshtml",
+              "RelativeDocumentMoniker": "CookiesApp\\Views\\Home\\Createcookies.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Views\\Home\\Createcookies.cshtml",
+              "RelativeToolTip": "CookiesApp\\Views\\Home\\Createcookies.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T11:00:13.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "SessionMgmt\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "SessionMgmt\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T10:45:34.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SessionMgmt\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SessionMgmt\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAmwCoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T10:41:12.862Z"
+              "WhenOpened": "2024-06-11T08:13:12.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Program.cs",
-              "RelativeDocumentMoniker": "SessionMgmt\\Program.cs",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\SessionMgmt\\Program.cs",
-              "RelativeToolTip": "SessionMgmt\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CookiesApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CookiesApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CookiesApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAzwCYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T10:38:54.007Z",
+              "WhenOpened": "2024-06-11T08:09:30.879Z",
               "EditorCaption": ""
             }
           ]

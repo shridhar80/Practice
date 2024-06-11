@@ -16,7 +16,7 @@ namespace SessionMgmt.Controllers
 
         public IActionResult Index()
         {
-            HttpContext.Session.SetString("KeyName","ValueName");
+            HttpContext.Session.SetString("KeyName","Shridhar");
             return View();
         }
 

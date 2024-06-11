@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\controllers\\statemgmtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\statemgmtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\views\\statemgmt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\statemgmt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\controllers\\statemgmtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\controllers\\statemgmtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\views\\statemgmt\\sessionstorage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|d:\\tap\\practice\\crudusingmvc\\statemanagementapp\\statemanagementapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A48C51FA-FE2D-465A-8934-AA8D3C6D97AF}|StateManagementApp\\StateManagementApp.csproj|solutionrelative:statemanagementapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SessionStorage.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Views\\StateMgmt\\SessionStorage.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\StateMgmt\\SessionStorage.cshtml",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "StateManagementApp\\Views\\StateMgmt\\SessionStorage.cshtml",
               "ViewState": "AQIAABcAAAAAAAAAAAAAADUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T11:36:37.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T11:36:37.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LocalStorage.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Views\\StateMgmt\\LocalStorage.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\StateMgmt\\LocalStorage.cshtml",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "StateManagementApp\\Views\\StateMgmt\\LocalStorage.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAowDoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T10:59:10.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:59:10.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Views\\StateMgmt\\Index.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\StateMgmt\\Index.cshtml",
@@ -89,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StateMgmtController.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Controllers\\StateMgmtController.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\StateMgmtController.cs",
@@ -102,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Models\\Customer.cs",
@@ -110,12 +108,11 @@
               "RelativeToolTip": "StateManagementApp\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T10:15:29.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:15:29.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\Auth\\Index.cshtml",
@@ -123,12 +120,11 @@
               "RelativeToolTip": "StateManagementApp\\Views\\Auth\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T09:57:37.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T09:57:37.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "LogIn.cshtml",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Views\\Auth\\LogIn.cshtml",
               "RelativeDocumentMoniker": "StateManagementApp\\Views\\Auth\\LogIn.cshtml",
@@ -136,12 +132,11 @@
               "RelativeToolTip": "StateManagementApp\\Views\\Auth\\LogIn.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T09:56:26.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T09:56:26.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Controllers\\AuthController.cs",
@@ -149,12 +144,11 @@
               "RelativeToolTip": "StateManagementApp\\Controllers\\AuthController.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAA7wEEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T09:49:51.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T09:49:51.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Claim.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\StateManagementApp\\StateManagementApp\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "StateManagementApp\\Models\\Claim.cs",
@@ -162,8 +156,7 @@
               "RelativeToolTip": "StateManagementApp\\Models\\Claim.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T09:45:16.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T09:45:16.502Z"
             }
           ]
         }
