@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookiesApp", "CookiesApp\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartSessionMgmt", "CartSessionMgmt\CartSessionMgmt.csproj", "{B1BCE726-84F4-4AE7-9903-7907823122B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMemoryEx", "CacheMemoryEx\CacheMemoryEx.csproj", "{D203C142-BD68-41CA-8ACF-389D779AE440}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheMemoryEx", "CacheMemoryEx\CacheMemoryEx.csproj", "{D203C142-BD68-41CA-8ACF-389D779AE440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialViewExample", "PartialViewExample\PartialViewExample.csproj", "{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D203C142-BD68-41CA-8ACF-389D779AE440}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D203C142-BD68-41CA-8ACF-389D779AE440}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D203C142-BD68-41CA-8ACF-389D779AE440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\CrudUsingMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D203C142-BD68-41CA-8ACF-389D779AE440}|CacheMemoryEx\\CacheMemoryEx.csproj|d:\\tap\\practice\\crudusingmvc\\cachememoryex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D203C142-BD68-41CA-8ACF-389D779AE440}|CacheMemoryEx\\CacheMemoryEx.csproj|solutionrelative:cachememoryex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|d:\\tap\\practice\\crudusingmvc\\partialviewexample\\views\\dashboard\\linechartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\dashboard\\linechartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D203C142-BD68-41CA-8ACF-389D779AE440}|CacheMemoryEx\\CacheMemoryEx.csproj|d:\\tap\\practice\\crudusingmvc\\cachememoryex\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D203C142-BD68-41CA-8ACF-389D779AE440}|CacheMemoryEx\\CacheMemoryEx.csproj|solutionrelative:cachememoryex\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|d:\\tap\\practice\\crudusingmvc\\partialviewexample\\views\\dashboard\\barchartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\dashboard\\barchartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|d:\\tap\\practice\\crudusingmvc\\partialviewexample\\views\\dashboard\\piechartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\dashboard\\piechartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|d:\\tap\\practice\\crudusingmvc\\partialviewexample\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|d:\\tap\\practice\\crudusingmvc\\partialviewexample\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|d:\\tap\\practice\\crudusingmvc\\partialviewexample\\models\\companydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\models\\companydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CacheMemoryEx\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "CacheMemoryEx\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CacheMemoryEx\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "CacheMemoryEx\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:56:49.93Z",
+              "DocumentIndex": 0,
+              "Title": "LineChartView.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Views\\Dashboard\\LineChartView.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Dashboard\\LineChartView.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Views\\Dashboard\\LineChartView.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Dashboard\\LineChartView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:57:00.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\CacheMemoryEx\\Program.cs",
-              "RelativeDocumentMoniker": "CacheMemoryEx\\Program.cs",
-              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\CacheMemoryEx\\Program.cs",
-              "RelativeToolTip": "CacheMemoryEx\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "DocumentIndex": 1,
+              "Title": "BarChartView.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Views\\Dashboard\\BarChartView.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Dashboard\\BarChartView.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Views\\Dashboard\\BarChartView.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Dashboard\\BarChartView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:56:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PieChartView.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Views\\Dashboard\\PieChartView.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Dashboard\\PieChartView.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Views\\Dashboard\\PieChartView.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Dashboard\\PieChartView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:55:12.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:46:43.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PartialViewExample\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PartialViewExample\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:53:03.814Z",
+              "WhenOpened": "2024-06-12T11:46:32.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyData.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Models\\CompanyData.cs",
+              "RelativeDocumentMoniker": "PartialViewExample\\Models\\CompanyData.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CrudUsingMvc\\PartialViewExample\\Models\\CompanyData.cs",
+              "RelativeToolTip": "PartialViewExample\\Models\\CompanyData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:42:14.065Z",
               "EditorCaption": ""
             }
           ]
