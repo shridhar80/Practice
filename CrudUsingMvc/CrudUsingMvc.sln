@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartSessionMgmt", "CartSess
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheMemoryEx", "CacheMemoryEx\CacheMemoryEx.csproj", "{D203C142-BD68-41CA-8ACF-389D779AE440}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialViewExample", "PartialViewExample\PartialViewExample.csproj", "{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialViewExample", "PartialViewExample\PartialViewExample.csproj", "{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptChartExample", "JavaScriptChartExample\JavaScriptChartExample.csproj", "{DDC53E65-B77D-4B91-A78C-7D072EFFA6D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFB8AC0F-8DAA-466F-94BE-7328A99F011E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC53E65-B77D-4B91-A78C-7D072EFFA6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC53E65-B77D-4B91-A78C-7D072EFFA6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC53E65-B77D-4B91-A78C-7D072EFFA6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC53E65-B77D-4B91-A78C-7D072EFFA6D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
