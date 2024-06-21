@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <title>Machine Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-group {
+            display: flex;
+            align-items: center;
+            margin-bottom: 50px;
+        }
+
+        .form-group label {
+            margin-right: 250px;
+            white-space: nowrap;
+
+        }
+
+        .form-group select {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 3px solid #0a0909;
+            box-sizing: border-box;
+            margin-right: 50px;
+        }
+
+        input[type="text"],[type="date"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 3px solid #131010;
+            box-sizing: border-box;
+        }
+
+        table,
+        th,
+        td {
+
+            width: auto;
+            border: 3px solid black;
+            border-collapse: collapse;
+            margin-bottom: 50px;
+        }
+
+        button {
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+            align-items: center;
+            background-color: #335abd;
+            border: 3px solid #131010;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            border-radius: 8px;
+            display: inline-block;
+            font-size: 16px;
+            margin-left: 300px;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <form id="detailsForm">
+
+            <div class="form-group">
+                <label for="field">Field: <select id="field" name="field">
+                        <option value="none" disabled selected>Select Field</option>
+                        <option value="EmpId">EmpId</option>
+                        <option value="EmpName">EmpName</option>
+                        <option value="Department">Department</option>
+                        <option value="Salary">Salary</option>
+                        <option value="Location">Location</option>
+                        <option value="Joining Date">Joining Date</option>
+                    </select></label>
+
+                <label for="operator">Operator: <select id="operator" name="operator">
+                        <option value="" disabled selected>Select operator</option>
+                        <option>>=</option>
+                        <option>></option>
+                        <option> < </option>
+                        <option> <= </option>
+                        <option>!=</option>
+                        <option>=</option>
+
+
+                    </select></label>
+
+            </div>
+
+            <div class="form-group">
+                <label for="value">Value : <input type="text" id="value" name="value"></label>
+                <label for="conjuction">Conjuction : <select id="conjuction" name="conjuction">
+                        <option value="" disabled selected>Select conjuction</option>
+                        <option>AND</option>
+                        <option>OR</option>
+
+                    </select></label>
+
+            </div>
+
+            <div class="form-group">
+                <button type="button" id="addButton" onclick="addDetails()">Add</button>
+                <button type="button" id="saveButton" class="hidden" onclick="saveDetails()">Update</button>
+            </div>
+
+            <div>
+
+                <table id="detailsTable">
+                    <thead>
+                        <tr>
+                            <th colspan="6" bgcolor="Tomato"><u>Conditions</u></th>
+
+                        </tr>
+                        <tr>
+                            <th style="width:5%" bgcolor="green">SNo</th>
+                            <th style="width:20%" bgcolor="green">Field Name</th>
+                            <th style="width:20%" bgcolor="green">Operator</th>
+                            <th style="width:20%" bgcolor="green">Value</th>
+                            <th colspan="2" bgcolor="green" id="action">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+
+                </table>
+                <div> <button type="button" onclick="getTableData()">Save</button></div>
+            </div>
+
+        </form>
+    </div>
+</body>
+<script  src="MachineTest.js">
+   
+</script>
+
+</html>
