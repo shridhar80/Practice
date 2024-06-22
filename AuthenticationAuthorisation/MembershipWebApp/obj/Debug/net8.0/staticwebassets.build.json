@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "prRnQEE1CK7jtBDRy/LFulHSRGJNL2+xL/Z/PV+B/Js=",
+  "Source": "MembershipWebApp",
+  "BasePath": "_content/MembershipWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

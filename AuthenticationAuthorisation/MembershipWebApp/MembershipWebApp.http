@@ -1,0 +1,6 @@
+@MembershipWebApp_HostAddress = http://localhost:5251
+
+GET {{MembershipWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
