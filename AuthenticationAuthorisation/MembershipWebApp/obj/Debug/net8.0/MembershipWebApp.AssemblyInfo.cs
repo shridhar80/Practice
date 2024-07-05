@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MembershipWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a6cdd8d16a8b15a865a0a517c5fcc5ba5d185c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18f9f804799ec1b3e46879fe5704a223f1444a08")]
 [assembly: System.Reflection.AssemblyProductAttribute("MembershipWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MembershipWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

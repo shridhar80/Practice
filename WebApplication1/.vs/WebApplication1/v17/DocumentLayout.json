@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\Practice\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084261C0-91DC-4F2C-87B3-89982022D620}|WinFormsLibrary1\\WinFormsLibrary1.csproj|d:\\tap\\practice\\webapplication1\\winformslibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084261C0-91DC-4F2C-87B3-89982022D620}|WinFormsLibrary1\\WinFormsLibrary1.csproj|solutionrelative:winformslibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5D205D-470A-4451-AFD4-27270B19B2E3}|WindowsService1\\WindowsService1.csproj|d:\\tap\\practice\\webapplication1\\windowsservice1\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B5D205D-470A-4451-AFD4-27270B19B2E3}|WindowsService1\\WindowsService1.csproj|solutionrelative:windowsservice1\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2057FC-9174-4B95-A25B-E9898697B40C}|WinFormsApp1\\WinFormsApp1.csproj|d:\\tap\\practice\\webapplication1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C2057FC-9174-4B95-A25B-E9898697B40C}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\WebApplication1\\WinFormsLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "WinFormsLibrary1\\Class1.cs",
+              "ToolTip": "D:\\TAP\\Practice\\WebApplication1\\WinFormsLibrary1\\Class1.cs",
+              "RelativeToolTip": "WinFormsLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:57:06.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "D:\\TAP\\Practice\\WebApplication1\\WindowsService1\\Service1.cs",
+              "RelativeDocumentMoniker": "WindowsService1\\Service1.cs",
+              "ToolTip": "D:\\TAP\\Practice\\WebApplication1\\WindowsService1\\Service1.cs [Design]",
+              "RelativeToolTip": "WindowsService1\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:54:15.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TAP\\Practice\\WebApplication1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\TAP\\Practice\\WebApplication1\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:52:31.809Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
