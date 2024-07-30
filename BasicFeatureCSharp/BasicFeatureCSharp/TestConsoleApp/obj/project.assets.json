@@ -1,0 +1,178 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Banking/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Banking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Banking.dll": {}
+        }
+      },
+      "DTPLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DTPLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTPLib.dll": {}
+        }
+      },
+      "GraphicsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GraphicsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GraphicsLib.dll": {}
+        }
+      },
+      "HR/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HR.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HR.dll": {}
+        }
+      },
+      "MathLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MathLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banking/1.0.0": {
+      "type": "project",
+      "path": "../Banking/Banking.csproj",
+      "msbuildProject": "../Banking/Banking.csproj"
+    },
+    "DTPLib/1.0.0": {
+      "type": "project",
+      "path": "../DTPLib/DTPLib.csproj",
+      "msbuildProject": "../DTPLib/DTPLib.csproj"
+    },
+    "GraphicsLib/1.0.0": {
+      "type": "project",
+      "path": "../GraphicsLib/GraphicsLib.csproj",
+      "msbuildProject": "../GraphicsLib/GraphicsLib.csproj"
+    },
+    "HR/1.0.0": {
+      "type": "project",
+      "path": "../HR/HR.csproj",
+      "msbuildProject": "../HR/HR.csproj"
+    },
+    "MathLib/1.0.0": {
+      "type": "project",
+      "path": "../MathLib/MathLib.csproj",
+      "msbuildProject": "../MathLib/MathLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Banking >= 1.0.0",
+      "DTPLib >= 1.0.0",
+      "GraphicsLib >= 1.0.0",
+      "HR >= 1.0.0",
+      "MathLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\TestConsoleApp\\TestConsoleApp.csproj",
+      "projectName": "TestConsoleApp",
+      "projectPath": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\TestConsoleApp\\TestConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\TestConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\Banking\\Banking.csproj": {
+              "projectPath": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\Banking\\Banking.csproj"
+            },
+            "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\DTPLib\\DTPLib.csproj": {
+              "projectPath": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\DTPLib\\DTPLib.csproj"
+            },
+            "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\GraphicsLib\\GraphicsLib.csproj": {
+              "projectPath": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\GraphicsLib\\GraphicsLib.csproj"
+            },
+            "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\HR\\HR.csproj": {
+              "projectPath": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\HR\\HR.csproj"
+            },
+            "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\MathLib\\MathLib.csproj": {
+              "projectPath": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\MathLib\\MathLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

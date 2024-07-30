@@ -1,0 +1,14 @@
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.exe
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.deps.json
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.runtimeconfig.json
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\bin\Debug\net8.0\JaggedArrayApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.AssemblyInfoInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.AssemblyInfo.cs
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\refint\JaggedArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\JaggedArrayApp.genruntimeconfig.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\JaggedArrayApp\obj\Debug\net8.0\ref\JaggedArrayApp.dll

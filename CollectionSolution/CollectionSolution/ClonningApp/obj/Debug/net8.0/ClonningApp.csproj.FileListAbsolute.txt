@@ -1,0 +1,14 @@
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\bin\Debug\net8.0\ClonningApp.exe
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\bin\Debug\net8.0\ClonningApp.deps.json
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\bin\Debug\net8.0\ClonningApp.runtimeconfig.json
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\bin\Debug\net8.0\ClonningApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\bin\Debug\net8.0\ClonningApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\ClonningApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\ClonningApp.AssemblyInfoInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\ClonningApp.AssemblyInfo.cs
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\ClonningApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\ClonningApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\refint\ClonningApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\ClonningApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\ClonningApp.genruntimeconfig.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\ClonningApp\obj\Debug\net8.0\ref\ClonningApp.dll

@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14232FA-1C10-4B9A-AF7A-DD2A4A04A357}|MatrixDemoApp\\MatrixDemoApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\matrixdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14232FA-1C10-4B9A-AF7A-DD2A4A04A357}|MatrixDemoApp\\MatrixDemoApp.csproj|solutionrelative:matrixdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B867209-D855-4370-9174-DD1748F39B5B}|JaggedArrayApp\\JaggedArrayApp.csproj|d:\\tap\\practice\\collectionsolution\\collectionsolution\\jaggedarrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B867209-D855-4370-9174-DD1748F39B5B}|JaggedArrayApp\\JaggedArrayApp.csproj|solutionrelative:jaggedarrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BC5F02-81F3-4F01-98C8-17ED326991FC}|RectangularArrayApp\\RectangularArrayApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\rectangulararrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BC5F02-81F3-4F01-98C8-17ED326991FC}|RectangularArrayApp\\RectangularArrayApp.csproj|solutionrelative:rectangulararrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69D6377-D15E-4278-9D73-019AFF2E6262}|SimpleArrayApp\\SimpleArrayApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\simplearrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69D6377-D15E-4278-9D73-019AFF2E6262}|SimpleArrayApp\\SimpleArrayApp.csproj|solutionrelative:simplearrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09E6F24-C068-4B06-A09B-47936D504818}|TestCollectionApp\\TestCollectionApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\testcollectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09E6F24-C068-4B06-A09B-47936D504818}|TestCollectionApp\\TestCollectionApp.csproj|solutionrelative:testcollectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C78A2E8-E285-45D8-A030-0EBB0D66BCCF}|ComparisionApp\\ComparisionApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\comparisionapp\\personagecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C78A2E8-E285-45D8-A030-0EBB0D66BCCF}|ComparisionApp\\ComparisionApp.csproj|solutionrelative:comparisionapp\\personagecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C78A2E8-E285-45D8-A030-0EBB0D66BCCF}|ComparisionApp\\ComparisionApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\comparisionapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C78A2E8-E285-45D8-A030-0EBB0D66BCCF}|ComparisionApp\\ComparisionApp.csproj|solutionrelative:comparisionapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48A591E-6827-4A6F-9AD5-7E83F10F1F22}|ClonningApp\\ClonningApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\clonningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48A591E-6827-4A6F-9AD5-7E83F10F1F22}|ClonningApp\\ClonningApp.csproj|solutionrelative:clonningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48A591E-6827-4A6F-9AD5-7E83F10F1F22}|ClonningApp\\ClonningApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\clonningapp\\icloneable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48A591E-6827-4A6F-9AD5-7E83F10F1F22}|ClonningApp\\ClonningApp.csproj|solutionrelative:clonningapp\\icloneable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48A591E-6827-4A6F-9AD5-7E83F10F1F22}|ClonningApp\\ClonningApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\clonningapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48A591E-6827-4A6F-9AD5-7E83F10F1F22}|ClonningApp\\ClonningApp.csproj|solutionrelative:clonningapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09E6F24-C068-4B06-A09B-47936D504818}|TestCollectionApp\\TestCollectionApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\testcollectionapp\\personagecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09E6F24-C068-4B06-A09B-47936D504818}|TestCollectionApp\\TestCollectionApp.csproj|solutionrelative:testcollectionapp\\personagecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09E6F24-C068-4B06-A09B-47936D504818}|TestCollectionApp\\TestCollectionApp.csproj|D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\testcollectionapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09E6F24-C068-4B06-A09B-47936D504818}|TestCollectionApp\\TestCollectionApp.csproj|solutionrelative:testcollectionapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\JaggedArrayApp\\Program.cs",
+              "RelativeDocumentMoniker": "JaggedArrayApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\JaggedArrayApp\\Program.cs",
+              "RelativeToolTip": "JaggedArrayApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:29:40.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\SimpleArrayApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleArrayApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\SimpleArrayApp\\Program.cs",
+              "RelativeToolTip": "SimpleArrayApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:29:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\MatrixDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixDemoApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\MatrixDemoApp\\Program.cs",
+              "RelativeToolTip": "MatrixDemoApp\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:26:54.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\RectangularArrayApp\\Program.cs",
+              "RelativeDocumentMoniker": "RectangularArrayApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\RectangularArrayApp\\Program.cs",
+              "RelativeToolTip": "RectangularArrayApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:23:38.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ClonningApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClonningApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ClonningApp\\Program.cs",
+              "RelativeToolTip": "ClonningApp\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:17:10.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ClonningApp\\Employee.cs",
+              "RelativeDocumentMoniker": "ClonningApp\\Employee.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ClonningApp\\Employee.cs",
+              "RelativeToolTip": "ClonningApp\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:13:41.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICloneable.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ClonningApp\\ICloneable.cs",
+              "RelativeDocumentMoniker": "ClonningApp\\ICloneable.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ClonningApp\\ICloneable.cs",
+              "RelativeToolTip": "ClonningApp\\ICloneable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:12:23.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonAgeComparer.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\TestCollectionApp\\PersonAgeComparer.cs",
+              "RelativeDocumentMoniker": "TestCollectionApp\\PersonAgeComparer.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\TestCollectionApp\\PersonAgeComparer.cs",
+              "RelativeToolTip": "TestCollectionApp\\PersonAgeComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:08:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonAgeComparer.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ComparisionApp\\PersonAgeComparer.cs",
+              "RelativeDocumentMoniker": "ComparisionApp\\PersonAgeComparer.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ComparisionApp\\PersonAgeComparer.cs",
+              "RelativeToolTip": "ComparisionApp\\PersonAgeComparer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:05:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ComparisionApp\\Person.cs",
+              "RelativeDocumentMoniker": "ComparisionApp\\Person.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\ComparisionApp\\Person.cs",
+              "RelativeToolTip": "ComparisionApp\\Person.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:00:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\TestCollectionApp\\Person.cs",
+              "RelativeDocumentMoniker": "TestCollectionApp\\Person.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\TestCollectionApp\\Person.cs",
+              "RelativeToolTip": "TestCollectionApp\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:46:34.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\TestCollectionApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestCollectionApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CollectionSolution\\CollectionSolution\\TestCollectionApp\\Program.cs",
+              "RelativeToolTip": "TestCollectionApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:45:43.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

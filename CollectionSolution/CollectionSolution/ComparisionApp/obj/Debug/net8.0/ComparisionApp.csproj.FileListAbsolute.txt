@@ -1,0 +1,14 @@
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\bin\Debug\net8.0\ComparisionApp.exe
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\bin\Debug\net8.0\ComparisionApp.deps.json
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\bin\Debug\net8.0\ComparisionApp.runtimeconfig.json
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\bin\Debug\net8.0\ComparisionApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\bin\Debug\net8.0\ComparisionApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\ComparisionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\ComparisionApp.AssemblyInfoInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\ComparisionApp.AssemblyInfo.cs
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\ComparisionApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\ComparisionApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\refint\ComparisionApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\ComparisionApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\ComparisionApp.genruntimeconfig.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\ComparisionApp\obj\Debug\net8.0\ref\ComparisionApp.dll

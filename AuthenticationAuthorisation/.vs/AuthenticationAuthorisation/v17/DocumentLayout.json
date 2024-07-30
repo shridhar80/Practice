@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D46B0E9-E972-483E-BFCA-D8815A5DD80F}|MembershipWebApp\\MembershipWebApp.csproj|D:\\TAP\\Practice\\AuthenticationAuthorisation\\membershipwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D46B0E9-E972-483E-BFCA-D8815A5DD80F}|MembershipWebApp\\MembershipWebApp.csproj|d:\\tap\\practice\\authenticationauthorisation\\membershipwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D46B0E9-E972-483E-BFCA-D8815A5DD80F}|MembershipWebApp\\MembershipWebApp.csproj|solutionrelative:membershipwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D46B0E9-E972-483E-BFCA-D8815A5DD80F}|MembershipWebApp\\MembershipWebApp.csproj|d:\\tap\\practice\\authenticationauthorisation\\membershipwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D46B0E9-E972-483E-BFCA-D8815A5DD80F}|MembershipWebApp\\MembershipWebApp.csproj|solutionrelative:membershipwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D46B0E9-E972-483E-BFCA-D8815A5DD80F}|MembershipWebApp\\MembershipWebApp.csproj|d:\\tap\\practice\\authenticationauthorisation\\membershipwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D46B0E9-E972-483E-BFCA-D8815A5DD80F}|MembershipWebApp\\MembershipWebApp.csproj|D:\\TAP\\Practice\\AuthenticationAuthorisation\\membershipwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D46B0E9-E972-483E-BFCA-D8815A5DD80F}|MembershipWebApp\\MembershipWebApp.csproj|solutionrelative:membershipwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MembershipWebApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Program.cs",
+              "RelativeToolTip": "MembershipWebApp\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:24:28.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "MembershipWebApp\\Controllers\\UsersController.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "MembershipWebApp\\Controllers\\UsersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:59:31.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T08:59:31.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AuthoriseAttribute.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Helpers\\AuthoriseAttribute.cs",
               "RelativeDocumentMoniker": "MembershipWebApp\\Helpers\\AuthoriseAttribute.cs",
@@ -67,12 +83,11 @@
               "RelativeToolTip": "MembershipWebApp\\Helpers\\AuthoriseAttribute.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAA3wA0AAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T18:43:54.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T18:43:54.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Helpers\\AppSettings.cs",
               "RelativeDocumentMoniker": "MembershipWebApp\\Helpers\\AppSettings.cs",
@@ -80,12 +95,11 @@
               "RelativeToolTip": "MembershipWebApp\\Helpers\\AppSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T18:23:42.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T18:23:42.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "MembershipWebApp\\appsettings.json",
@@ -93,12 +107,11 @@
               "RelativeToolTip": "MembershipWebApp\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-21T18:21:08.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T18:21:08.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "MembershipWebApp\\Services\\UserService.cs",
@@ -111,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "MembershipWebApp\\Services\\IUserService.cs",
@@ -119,12 +132,11 @@
               "RelativeToolTip": "MembershipWebApp\\Services\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T18:06:42.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T18:06:42.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuthenticateResponse.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Models\\AuthenticateResponse.cs",
               "RelativeDocumentMoniker": "MembershipWebApp\\Models\\AuthenticateResponse.cs",
@@ -132,12 +144,11 @@
               "RelativeToolTip": "MembershipWebApp\\Models\\AuthenticateResponse.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAqwAwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:58:00.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T17:58:00.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\TAP\\Practice\\AuthenticationAuthorisation\\MembershipWebApp\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MembershipWebApp\\Entities\\User.cs",
@@ -145,8 +156,7 @@
               "RelativeToolTip": "MembershipWebApp\\Entities\\User.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:51:37.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T17:51:37.779Z"
             }
           ]
         }

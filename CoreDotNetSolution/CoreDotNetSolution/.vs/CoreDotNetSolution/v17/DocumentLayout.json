@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\reflectiondemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|solutionrelative:reflectiondemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\reflectiondemoapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|solutionrelative:reflectiondemoapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\reflectiondemoapp\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|solutionrelative:reflectiondemoapp\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\reflectiondemoapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|solutionrelative:reflectiondemoapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6D81BA-90FA-4AA7-BA61-0790EF26C404}|ReflectionEmitApp\\ReflectionEmitApp.csproj|d:\\tap\\practice\\coredotnetsolution\\coredotnetsolution\\reflectionemitapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED6D81BA-90FA-4AA7-BA61-0790EF26C404}|ReflectionEmitApp\\ReflectionEmitApp.csproj|solutionrelative:reflectionemitapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\reflectiondemoapp\\reflectiondemoapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9EB087A7-D37B-48CD-A5B7-539A30FFB111}|ReflectionDemoApp\\ReflectionDemoApp.csproj|solutionrelative:reflectiondemoapp\\reflectiondemoapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionEmitApp\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionEmitApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionEmitApp\\Program.cs",
+              "RelativeToolTip": "ReflectionEmitApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:17:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\Item.cs",
+              "RelativeDocumentMoniker": "ReflectionDemoApp\\Item.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\Item.cs",
+              "RelativeToolTip": "ReflectionDemoApp\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:00:40.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ReflectionDemoApp\\ShoppingCart.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\ShoppingCart.cs",
+              "RelativeToolTip": "ReflectionDemoApp\\ShoppingCart.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:59:56.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\Product.cs",
+              "RelativeDocumentMoniker": "ReflectionDemoApp\\Product.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\Product.cs",
+              "RelativeToolTip": "ReflectionDemoApp\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:59:33.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReflectionDemoApp",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\ReflectionDemoApp.csproj",
+              "RelativeDocumentMoniker": "ReflectionDemoApp\\ReflectionDemoApp.csproj",
+              "ToolTip": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\ReflectionDemoApp.csproj",
+              "RelativeToolTip": "ReflectionDemoApp\\ReflectionDemoApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T06:55:19.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionDemoApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\CoreDotNetSolution\\CoreDotNetSolution\\ReflectionDemoApp\\Program.cs",
+              "RelativeToolTip": "ReflectionDemoApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:50:40.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

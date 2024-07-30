@@ -1,0 +1,14 @@
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\bin\Debug\net8.0\SimpleArrayApp.exe
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\bin\Debug\net8.0\SimpleArrayApp.deps.json
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\bin\Debug\net8.0\SimpleArrayApp.runtimeconfig.json
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\bin\Debug\net8.0\SimpleArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\bin\Debug\net8.0\SimpleArrayApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\SimpleArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\SimpleArrayApp.AssemblyInfoInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\SimpleArrayApp.AssemblyInfo.cs
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\SimpleArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\SimpleArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\refint\SimpleArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\SimpleArrayApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\SimpleArrayApp.genruntimeconfig.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\SimpleArrayApp\obj\Debug\net8.0\ref\SimpleArrayApp.dll

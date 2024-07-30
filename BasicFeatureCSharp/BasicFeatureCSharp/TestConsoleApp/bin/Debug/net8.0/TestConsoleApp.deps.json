@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestConsoleApp/1.0.0": {
+        "dependencies": {
+          "Banking": "1.0.0",
+          "DTPLib": "1.0.0",
+          "GraphicsLib": "1.0.0",
+          "HR": "1.0.0",
+          "MathLib": "1.0.0"
+        },
+        "runtime": {
+          "TestConsoleApp.dll": {}
+        }
+      },
+      "Banking/1.0.0": {
+        "runtime": {
+          "Banking.dll": {}
+        }
+      },
+      "DTPLib/1.0.0": {
+        "runtime": {
+          "DTPLib.dll": {}
+        }
+      },
+      "GraphicsLib/1.0.0": {
+        "runtime": {
+          "GraphicsLib.dll": {}
+        }
+      },
+      "HR/1.0.0": {
+        "runtime": {
+          "HR.dll": {}
+        }
+      },
+      "MathLib/1.0.0": {
+        "runtime": {
+          "MathLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTPLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphicsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

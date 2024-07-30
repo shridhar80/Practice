@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="Scripts/UserProfileDetails.js" defer></script>
+</head>
+
+<body class="bg-gray-100">
+    <nav class="bg-blue-500 p-4 shadow-lg">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="text-white text-2xl font-bold">Membership Management</div>
+            <div class="space-x-4">
+                <a href="../Navigation/Login.html" class="text-white hover:text-gray-300">Login</a>
+                <a href="../Users/Register.html" class="text-white hover:text-gray-300">Register</a>
+                <a href="../Navigation/AboutUs.html" class="text-white hover:text-gray-300">About</a>
+                <a href="../Navigation/Contact.html" class="text-white hover:text-gray-300">Contact</a>
+                <a href="../Navigation/Help.html" class="text-white hover:text-gray-300">Help</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Profile Header -->
+    <div class="max-w-7xl mx-auto px-4 flex items-center">
+        <div class="flex-shrink-0">
+            <img id="pimgurl" src="https://via.placeholder.com/150" alt="Profile Picture" class="h-24 w-24 rounded-full">
+        </div>
+        <div class="ml-8">
+            <h1 id="fullname" class="text-3xl font-semibold"></h1>
+            <p id="prole" class="text-lg"></p>
+            <p id="plocation" class="mt-2"></p>
+        </div>
+    </div>
+  
+
+    <!-- Main Content -->
+    <div class="max-w-7xl mx-auto px-4 py-8 flex-grow">
+
+        <!-- User Information -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">User Information</h2>
+            <div class="bg-white shadow-md rounded-lg p-6">
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <div>
+                        <p class="text-gray-600 mb-2">Email:</p>
+                        <p id="pemail" class="font-semibold"></p>
+                    </div>
+                    <div>
+                        <p class="text-gray-600 mb-2">Phone:</p>
+                        <p id="pcontact" class="font-semibold"></p>
+                    </div>
+                    <div>
+                        <p class="text-gray-600 mb-2">Gender:</p>
+                        <p id="pgender" class="font-semibold"></p>
+                    </div>
+                    <div>
+                        <p class="text-gray-600 mb-2">Aadhar Number:</p>
+                        <p id="paadharid" class="font-semibold"></p>
+                    </div>
+                    <div>
+                        <p class="text-gray-600 mb-2">Birth Date:</p>
+                        <p id="pdob" class="font-semibold"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Address Information -->
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Address Information</h2>
+            <div class="bg-white shadow-md rounded-lg p-6">
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                   <!--  <div>
+                        <p class="text-gray-600 mb-2">Area:</p>
+                        <p id="parea" class="font-semibold"></p>
+                    </div> -->
+                   <!--  <div id="toggleContainer">
+                        <p class="text-gray-600 mb-2">Area:</p>
+                        <p id="parea">Area : </p>
+                        <input type="text" id="editInput" style="display: none;"><button id="editButton" onclick="toggleEdit()">Edit</button><button id="updateButton" style="display: none;" onclick="updateText()">Update</button>  
+                    </div> -->
+                    <div id="toggleContainer">
+                        <div class="editable-item">
+                          <label class="text-gray-600 mb-2">Area:</label>
+                          <p id="parea" class="displayText"></p>
+                          <input type="text" class="editInput" style="display: none;">
+                          <button class="editButton">Edit</button>
+                          <button class="updateButton" style="display: none;">Update</button>
+                        </div>
+                        
+                        <div class="editable-item">
+                            <label class="text-gray-600 mb-2">Landmark:</label>
+                          <p id="plandmark" class="displayText"></p>
+                          <input type="text" class="editInput" style="display: none;">
+                          <button class="editButton">Edit</button>
+                          <button class="updateButton" style="display: none;">Update</button>
+                        </div>
+
+                        <div class="editable-item">
+                            <label class="text-gray-600 mb-2">City:</label>
+                          <p id="pcity" class="displayText"></p>
+                          <input type="text" class="editInput" style="display: none;">
+                          <button class="editButton">Edit</button>
+                          <button class="updateButton" style="display: none;">Update</button>
+                        </div>
+
+                        <div class="editable-item">
+                            <label class="text-gray-600 mb-2">State:</label>
+                          <p id="pstate" class="displayText"></p>
+                          <input type="text" class="editInput" style="display: none;">
+                          <button class="editButton">Edit</button>
+                          <button class="updateButton" style="display: none;">Update</button>
+                        </div>
+
+                        <div class="editable-item">
+                            <label class="text-gray-600 mb-2">Pincode :</label>
+                          <p id="ppincode" class="displayText"></p>
+                          <input type="text" class="editInput" style="display: none;">
+                          <button class="editButton">Edit</button>
+                          <button class="updateButton" style="display: none;">Update</button>
+                        </div>
+
+                        <div class="editable-item">
+                            <label class="text-gray-600 mb-2">Address Type :</label>
+                          <p id="ptype" class="displayText"></p>
+                          <input type="text" class="editInput" style="display: none;">
+                          <button class="editButton">Edit</button>
+                          <button class="updateButton" style="display: none;">Update</button>
+                        </div>
+                        
+                        <!-- Add more editable items as needed -->
+                      </div>
+                    <!-- <div>
+                        <p class="text-gray-600 mb-2">Landmark:</p>
+                        <p id="plandmark" class="font-semibold"></p>
+                    </div>
+                    <div>
+                        <p class="text-gray-600 mb-2">City:</p>
+                        <p id="pcity" class="font-semibold"></p>
+                    </div>
+                    <div>
+                        <p class="text-gray-600 mb-2">State:</p>
+                        <p id="pstate" class="font-semibold"></p>
+                    </div>
+                    <div>
+                        <p class="text-gray-600 mb-2">Pincode:</p>
+                        <p id="ppincode" class="font-semibold"></p>
+                    </div>
+                    <div>
+                        <p class="text-gray-600 mb-2">Address Type:</p>
+                        <p id="ptype" class="font-semibold"></p>
+                    </div> -->
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function () {
+    var userId = parseInt(sessionStorage.getItem("userid"));
+    
+    $.ajax({
+        url: "http://localhost:5000/api/users/userdetails/" + userId,
+        type: 'GET',
+        contentType: 'application/json',
+        success: function (data) {
+            var fullname = data.firstName + " " + data.lastName;
+            $("#fullname").text(fullname);
+            $("#pemail").text(data.email);
+            $("#paadharid").text(data.aadharId);
+            $("#pdob").text(data.birthDate);
+            $("#pcontact").text(data.contactNumber);
+            $("#pgender").text(data.gender);
+            $("#pimgurl").attr("src", data.imageUrl);
+        },
+        error: function (xhr, status, error) {
+            console.error(xhr.responseText);
+        }
+    });
+
+    $.ajax({
+        url: "http://localhost:5000/api/addresses/users/" + userId,
+        type: 'GET',
+        contentType: 'application/json',
+        success: function (addressData) {
+            $("#parea").text(addressData[0].area);
+            $("#plandmark").text(addressData[0].landMark);
+            $("#pcity").text(addressData[0].city);
+            $("#pstate").text(addressData[0].state);
+            $("#ppincode").text(addressData[0].pinCode);
+            $("#ptype").text(addressData[0].addressType);
+        },
+        error: function (xhr, status, error) {
+            console.error(xhr.responseText);
+        }
+    });
+
+    $('.editButton').on('click', function() {
+        var $container = $(this).closest('.editable-item');
+        var $displayText = $container.find('.displayText');
+        var $editInput = $container.find('.editInput');
+        var $editButton = $container.find('.editButton');
+        var $updateButton = $container.find('.updateButton');
+    
+        // Toggle visibility of p and input elements
+        $displayText.hide();
+        $editInput.val($displayText.text()).show();
+    
+        // Toggle buttons
+        $editButton.hide();
+        $updateButton.show();
+      });
+    
+      // Update button click handler
+      $('.updateButton').on('click', function() {
+        var $container = $(this).closest('.editable-item');
+        var $displayText = $container.find('.displayText');
+        var $editInput = $container.find('.editInput');
+        var $editButton = $container.find('.editButton');
+        var $updateButton = $container.find('.updateButton');
+    
+        // Update text in p tag
+        $displayText.text($editInput.val());
+    
+        // Toggle visibility of p and input elements
+        $editInput.hide();
+        $displayText.show();
+    
+        // Toggle buttons
+        $editButton.show();
+        $updateButton.hide();
+      });
+    
+});
+/* function toggleEdit() {
+    var displayText = document.getElementById('parea');
+    var editInput = document.getElementById('editInput');
+    var editButton = document.getElementById('editButton');
+    var updateButton = document.getElementById('updateButton');
+  
+    if (editInput.style.display === 'none') {
+      // Switch to edit mode
+      editInput.value = displayText.textContent;
+      displayText.style.display = 'none';
+      editInput.style.display = 'inline-block';
+      editButton.style.display = 'none';
+      updateButton.style.display = 'inline-block';
+    } else {
+      // Switch to display mode without saving changes
+      editInput.style.display = 'none';
+      displayText.style.display = 'inline-block';
+      editButton.style.display = 'inline-block';
+      updateButton.style.display = 'none';
+    }
+  }
+  
+  function updateText() {
+    var displayText = document.getElementById('parea');
+    var editInput = document.getElementById('editInput');
+    var editButton = document.getElementById('editButton');
+    var updateButton = document.getElementById('updateButton');
+  
+    // Update the display text with the input value
+    displayText.textContent = editInput.value;
+  
+    // Switch back to display mode after updating
+    editInput.style.display = 'none';
+    displayText.style.display = 'inline-block';
+    editButton.style.display = 'inline-block';
+    updateButton.style.display = 'none';
+  } */

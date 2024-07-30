@@ -1,0 +1,14 @@
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\bin\Debug\net8.0\RectangularArrayApp.exe
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\bin\Debug\net8.0\RectangularArrayApp.deps.json
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\bin\Debug\net8.0\RectangularArrayApp.runtimeconfig.json
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\bin\Debug\net8.0\RectangularArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\bin\Debug\net8.0\RectangularArrayApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\RectangularArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\RectangularArrayApp.AssemblyInfoInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\RectangularArrayApp.AssemblyInfo.cs
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\RectangularArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\RectangularArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\refint\RectangularArrayApp.dll
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\RectangularArrayApp.pdb
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\RectangularArrayApp.genruntimeconfig.cache
+C:\Users\tfladmin\source\repos\CollectionSolution\RectangularArrayApp\obj\Debug\net8.0\ref\RectangularArrayApp.dll

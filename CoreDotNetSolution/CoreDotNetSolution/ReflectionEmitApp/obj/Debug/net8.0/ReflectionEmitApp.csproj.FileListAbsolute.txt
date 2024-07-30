@@ -1,0 +1,14 @@
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\ReflectionEmitApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\ReflectionEmitApp.AssemblyInfoInputs.cache
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\ReflectionEmitApp.AssemblyInfo.cs
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\ReflectionEmitApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\bin\Debug\net8.0\ReflectionEmitApp.exe
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\bin\Debug\net8.0\ReflectionEmitApp.deps.json
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\bin\Debug\net8.0\ReflectionEmitApp.runtimeconfig.json
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\bin\Debug\net8.0\ReflectionEmitApp.dll
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\bin\Debug\net8.0\ReflectionEmitApp.pdb
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\ReflectionEmitApp.dll
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\refint\ReflectionEmitApp.dll
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\ReflectionEmitApp.pdb
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\ReflectionEmitApp.genruntimeconfig.cache
+C:\Users\tfladmin\source\repos\CoreDotNetSolution\ReflectionEmitApp\obj\Debug\net8.0\ref\ReflectionEmitApp.dll

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F21E5A96-AADC-493F-9D85-FC6C9D7F1CA0}|MathLib\\MathLib.csproj|d:\\tap\\practice\\basicfeaturecsharp\\basicfeaturecsharp\\mathlib\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21E5A96-AADC-493F-9D85-FC6C9D7F1CA0}|MathLib\\MathLib.csproj|solutionrelative:mathlib\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08FBCBB-7D5E-4191-93BC-69EB3E1256AB}|TestConsoleApp\\TestConsoleApp.csproj|d:\\tap\\practice\\basicfeaturecsharp\\basicfeaturecsharp\\testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08FBCBB-7D5E-4191-93BC-69EB3E1256AB}|TestConsoleApp\\TestConsoleApp.csproj|solutionrelative:testconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7957EA-6D29-419C-8632-15CF2D1612B7}|HR\\HR.csproj|d:\\tap\\practice\\basicfeaturecsharp\\basicfeaturecsharp\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7957EA-6D29-419C-8632-15CF2D1612B7}|HR\\HR.csproj|solutionrelative:hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23BE1AE-4BA2-4F1A-82A7-404D87DDE009}|GraphicsLib\\GraphicsLib.csproj|d:\\tap\\practice\\basicfeaturecsharp\\basicfeaturecsharp\\graphicslib\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23BE1AE-4BA2-4F1A-82A7-404D87DDE009}|GraphicsLib\\GraphicsLib.csproj|solutionrelative:graphicslib\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23BE1AE-4BA2-4F1A-82A7-404D87DDE009}|GraphicsLib\\GraphicsLib.csproj|d:\\tap\\practice\\basicfeaturecsharp\\basicfeaturecsharp\\graphicslib\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23BE1AE-4BA2-4F1A-82A7-404D87DDE009}|GraphicsLib\\GraphicsLib.csproj|solutionrelative:graphicslib\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23BE1AE-4BA2-4F1A-82A7-404D87DDE009}|GraphicsLib\\GraphicsLib.csproj|d:\\tap\\practice\\basicfeaturecsharp\\basicfeaturecsharp\\graphicslib\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23BE1AE-4BA2-4F1A-82A7-404D87DDE009}|GraphicsLib\\GraphicsLib.csproj|solutionrelative:graphicslib\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\GraphicsLib\\Circle.cs",
+              "RelativeDocumentMoniker": "GraphicsLib\\Circle.cs",
+              "ToolTip": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\GraphicsLib\\Circle.cs",
+              "RelativeToolTip": "GraphicsLib\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:47:41.706Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\MathLib\\Complex.cs",
+              "RelativeDocumentMoniker": "MathLib\\Complex.cs",
+              "ToolTip": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\MathLib\\Complex.cs",
+              "RelativeToolTip": "MathLib\\Complex.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:02:45.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\GraphicsLib\\Shape.cs",
+              "RelativeDocumentMoniker": "GraphicsLib\\Shape.cs",
+              "ToolTip": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\GraphicsLib\\Shape.cs",
+              "RelativeToolTip": "GraphicsLib\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:55:33.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\GraphicsLib\\Rectangle.cs",
+              "RelativeDocumentMoniker": "GraphicsLib\\Rectangle.cs",
+              "ToolTip": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\GraphicsLib\\Rectangle.cs",
+              "RelativeToolTip": "GraphicsLib\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:47:53.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\TestConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestConsoleApp\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\TestConsoleApp\\Program.cs",
+              "RelativeToolTip": "TestConsoleApp\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAApwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:36:05.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\HR\\Employee.cs",
+              "RelativeDocumentMoniker": "HR\\Employee.cs",
+              "ToolTip": "D:\\TAP\\Practice\\BasicFeatureCSharp\\BasicFeatureCSharp\\HR\\Employee.cs",
+              "RelativeToolTip": "HR\\Employee.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:49:41.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
