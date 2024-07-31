@@ -1,0 +1,15 @@
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\bin\Debug\net8.0\RomovePalindrome.exe
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\bin\Debug\net8.0\RomovePalindrome.deps.json
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\bin\Debug\net8.0\RomovePalindrome.runtimeconfig.json
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\bin\Debug\net8.0\RomovePalindrome.dll
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\bin\Debug\net8.0\RomovePalindrome.pdb
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\RomovePalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\RomovePalindrome.AssemblyInfoInputs.cache
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\RomovePalindrome.AssemblyInfo.cs
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\RomovePalindrome.csproj.CoreCompileInputs.cache
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\RomovePalindrome.sourcelink.json
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\RomovePalindrome.dll
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\refint\RomovePalindrome.dll
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\RomovePalindrome.pdb
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\RomovePalindrome.genruntimeconfig.cache
+D:\TAP\Practice\RomovePalindrome\RomovePalindrome\obj\Debug\net8.0\ref\RomovePalindrome.dll
