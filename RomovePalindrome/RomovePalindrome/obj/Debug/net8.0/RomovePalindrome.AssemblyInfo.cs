@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RomovePalindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ee555c45c34f27094ef05ca8fa5aec996b37d6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bcbdef2de0a5d5bc2200ad7ffd15fb39812ef48")]
 [assembly: System.Reflection.AssemblyProductAttribute("RomovePalindrome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RomovePalindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
