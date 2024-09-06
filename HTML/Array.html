@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let arr= new Array();
+        arr.push(5);
+        arr.push("Shri");
+        arr.push(true);
+        arr.push({ name: 'John', email:"john@gmail.com" , age: 25});
+        arr.push(function() { alert('hello'); })
+        console.log(arr);
+        //arr[4]();
+        let arr1 = [];
+        arr1.push(5);
+        arr1.push("Shri");
+        arr1.push(true);
+        arr1.push({ name: 'John' });
+        console.log(arr1);
+
+        let arr2 = [25, 'Ram', true, {name:'Sham'}, function() {alert('hello'); }];
+        console.log(arr2);
+        console.log(arr2.length);
+
+        arr2[1]= 26;
+        console.log(arr2);
+
+        arr2[5]= 27;
+        console.log(arr2);
+
+            let fruits = ["Apple"];
+
+            fruits.push("Orange", "Peach");
+            fruits.unshift("Pineapple", "Lemon");
+
+            console.log(fruits);
+
+            fruits.pop();
+            console.log(fruits);
+
+            fruits.shift();
+            console.log(fruits);
+
+       
+
+    </script>
+</body>
+</html>

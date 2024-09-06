@@ -1,19 +1,46 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     
 </head>
-<body style="background: #74b8e6; text-align: center;" >
+<body style="text-align: center; margin-top: 200px;" >
     <div>
-        <label>User Name : </label> <input type="text"/>
+        <label>User Name : </label> <input type="text" id="userName" name="uName"/>
     </div>
     <br><br>
     <div>
-        <label>Password : </label> <input type="password"/>
+        <label>Password : </label> <input type="password" id="password" name="pass"/>
     </div>
     <br><br>
     <div>
-        <button>LogIn</button>
+        <button id="btn" type="submit">LogIn</button>
     </div>
 </body>
+<script>
+    document.addEventListener('DOMContentLoaded', ()=>{
+        console.log("inside script..");
+        const candidates = [
+            {userName : "Shridhar", password: "password"},
+            {userName : "Shri", password: "password"}
+        ];
+
+        const submitButton = document.getElementById("btn");
+
+        submitButton.addEventListener('click', ()=>{
+            const uName = document.getElementById("userName").value.trim();
+            const pass = document.getElementById("password").value.trim();
+            console.log(uName +" ---- "+ pass);
+
+            for(var i=0; i<candidates.length; i++){
+                if(uName===candidates[i].userName && pass===candidates[i].password)
+                    {
+                        return console.log("logIn successfull..." + candidates[i].userName);
+                    }
+                
+            
+                else {console.log("User not valid.."+candidates[i].userName);} 
+            }
+        })
+    })
+</script>
 </html>
