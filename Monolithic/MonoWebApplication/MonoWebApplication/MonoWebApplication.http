@@ -1,0 +1,6 @@
+@MonoWebApplication_HostAddress = http://localhost:5212
+
+GET {{MonoWebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
