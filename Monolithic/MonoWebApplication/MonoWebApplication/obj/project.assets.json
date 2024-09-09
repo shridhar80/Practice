@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAP\\Projects\\TFLECommerce\\WebSolution\\WebSolution\\Monolithic\\MonoWebApplication\\MonoWebApplication\\MonoWebApplication.csproj",
+      "projectUniqueName": "D:\\Practice\\Practice\\Monolithic\\MonoWebApplication\\MonoWebApplication\\MonoWebApplication.csproj",
       "projectName": "MonoWebApplication",
-      "projectPath": "D:\\TAP\\Projects\\TFLECommerce\\WebSolution\\WebSolution\\Monolithic\\MonoWebApplication\\MonoWebApplication\\MonoWebApplication.csproj",
+      "projectPath": "D:\\Practice\\Practice\\Monolithic\\MonoWebApplication\\MonoWebApplication\\MonoWebApplication.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\TAP\\Projects\\TFLECommerce\\WebSolution\\WebSolution\\Monolithic\\MonoWebApplication\\MonoWebApplication\\obj\\",
+      "outputPath": "D:\\Practice\\Practice\\Monolithic\\MonoWebApplication\\MonoWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

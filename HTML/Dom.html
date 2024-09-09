@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="header">Hello..</h1>
+    <button id="changeTextButton">Change Text</button>
+    <button id="addElementButton">Add Element</button>
+    <script>
+
+        const header = document.getElementById("header");
+        const btnChangeText=document.getElementById("changeTextButton");
+        btnChangeText.addEventListener('click', function(){
+            header.textContent="Good morning and have a great day...";
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <canvas id="canvas" width="500" height="500"
+            onmousedown="mouseDownHandler(event)"
+            onmouseup="mouseUpHnadler(event)"
+            onmousemove="MouseMoveHandler(event)"
+            style="border: 1px solid blue;">
+
+    </canvas>
+
+    <script>
+        var startPoint = {x:0, y:0};
+        var endPoint = {x:0, y:0};
+        var isMouseDown=false;
+
+        function mouseDownHandler(e){
+            let x = e.clientX;
+            let y = e.clientY;
+
+            startPoint.x=x;
+            startPoint.y=y;
+            isMouseDown=true;
+        }
+
+        function MouseMoveHandler(e){
+            if(isMouseDown){
+                let x = e.clientX;
+                 let y = e.clientY;
+                 endPoint.x=x;
+                 endPoint.y=y;
+                 const canvas = document.getElementById('canvas');
+                 const ctx= canvas.getContext("2d");
+                 ctx.beginPath();
+                 
+                 const rect =canvas.getBoundingClientRect();
+                 ctx.fillStyle = "white";
+                 ctx.fillRect(rect.top, rect.left, rect.width, rect.height);
+
+                 ctx.moveTo(startPoint.x, startPoint.y);
+                 ctx.lineTo(endPoint.x, endPoint.y);
+                 ctx.stroke();
+            }
+        }
+
+        function mouseUpHnadler(e){
+            let x= e.clientX;
+            let y = e.clientY
+            endPoint.x= x;
+            endPoint.y=y;
+            const canvas = document.getElementById('canvas');
+            const ctx = canvas.getContext("2d");
+
+            ctx.fillStyle = "white";
+            ctx.fillRect(20,10,100,150);
+            ctx.beginPath();
+            ctx.moveTo(startPoint.x, startPoint.y);
+            ctx.lineTo(endPoint.x,endPoint.y);
+            ctx.stroke();
+
+            isMouseDown=false;
+        }
+    </script>
+</body>
+</html>

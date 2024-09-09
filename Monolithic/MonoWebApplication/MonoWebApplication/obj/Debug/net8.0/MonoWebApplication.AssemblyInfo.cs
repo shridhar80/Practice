@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonoWebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d61c50e644ba3383610e106a59c1b8d35af9b15f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+785bfaee778581a153767305e0416ad9bc8cecc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonoWebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonoWebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

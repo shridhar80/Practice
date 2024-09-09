@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <canvas id="myCanvas" width="500" height="500" style="border:1px solid blue" onmousedown="mouseDouwnHandler(event)"
+        onmouseup="mouseUpHandler(event)"></canvas>
+
+</body>
+<script>
+    const cnvs = document.getElementById('myCanvas');
+    const ctx = cnvs.getContext("2d");
+
+    var startPoint={x:0, y:0};
+    var endPoint={x:0, y:0};
+
+    function mouseDouwnHandler(e) {
+        console.log("mouse down...")
+        let x = e.clientX;
+        let y = e.clientY;
+        ctx.moveTo(x, y);
+        ctx.lineTo(x, y);
+        startPoint.x=x;
+        startPoint.y=y;
+        ctx.stroke();
+    }
+
+    function mouseUpHandler(e) {
+        console.log("mouse up...")
+        let x = e.clientX;
+        let y = e.clientY;
+        endPoint.x=x;
+        endPoint.y=y;
+        ctx.moveTo(startPoint.x,startPoint.y);
+        ctx.lineTo(endPoint.x, endPoint.y);
+        ctx.stroke();
+    }
+</script>
+
+</html>
