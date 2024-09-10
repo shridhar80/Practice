@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <canvas id="myCanvas" width="500" height="500" style="border:1px solid blue" onmousedown="mouseDouwnHandler(event)"
+        onmouseup="mouseUpHandler(event)"></canvas>
+
+</body>
+<script>
+
+
+    var startPoint = { x: 0, y: 0 };
+    var endPoint = { x: 0, y: 0 };
+    var lines = [];
+
+    function draw() {
+        const cnvs = document.getElementById('myCanvas');
+        const ctx = cnvs.getContext("2d");
+        ctx.beginPath();
+        if (lines !== null) {
+            for (var i = 0; i < lines.length; i++) {
+                let l = lines[i];
+                ctx.moveTo(l.startPoint.x, l.startPoint.y);
+                ctx.lineTo(l.endPoint.x, l.endPoint.y);
+                ctx.stroke();
+            }
+        }
+    }
+
+    function mouseDouwnHandler(e) {
+        console.log("mouse down...")
+        let x = e.clientX;
+        let y = e.clientY;
+
+        startPoint.x = x;
+        startPoint.y = y;
+
+    }
+
+    function mouseUpHandler(e) {
+        console.log("mouse up...")
+        let x = e.clientX;
+        let y = e.clientY;
+        endPoint.x = x;
+        endPoint.y = y;
+
+        let line = {
+            startPoint: { x: startPoint.x, y: startPoint.y },
+            endPoint: { x: startPoint.x, y: endPoint.y }
+        }
+        lines.push(line);
+        let stringLines = JSON.stringify(lines);
+        localStorage.setItem("lines", stringLines);
+        draw();
+    }
+
+
+
+    let strRetrivedLines = localStorage.getItem("lines");
+    if (strRetrivedLines !== null) {
+        lines = JSON.parse(strRetrivedLines);
+        draw();
+    }
+</script>
+
+</html>
