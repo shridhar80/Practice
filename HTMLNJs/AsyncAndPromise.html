@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Welcome </h1>
+    <button onclick="show()">click</button>
+
+    <script>
+
+        function show(){
+            console.log("Show data");
+        }
+
+        function showTime(){
+            let start = Date.now();
+            var date = new Date(start);
+            console.log(date);
+            console.log("exucuting showTime()...");
+            return 556;
+        }
+
+        function onTimeCallBack(){
+            console.log("core business operation exeuting onTimeCallBack...");
+        }
+
+        function promissFunction(){
+            return new Promise((resolve)=>{
+                console.log("inside promise function...");
+
+                setTimeOut(()=>{
+                    console.log("function is involked after 5 seconds ");
+                    resolve("Promised resolved...");
+                    }, 5000);
+                    console.log("Timer is set for 5 seconds");
+                
+            })
+        }
+
+        console.log("before calling showTime()...");
+
+        showTime();
+
+        console.log("after calling showTime()...");
+
+        console.log("before calling onTimeCallBack()...");
+
+        setTimeOut(onTimeCallBack,3000);
+
+        console.log("after calling onTimeCallBack()...");
+
+        promissFunction().then((message)=>{
+            console.log("this function is called automatically after invoking promiseFunction()...")
+        })
+
+    </script>
+</body>
+</html>
