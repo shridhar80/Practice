@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+</head>
+<body>
+    <script>
+        function show(){
+            var count=5;
+            count ++ ;
+            console.log("Count : "+count);
+
+        }
+        show();
+
+        class Product {
+            constructor (id, title, desc, price, quantity)
+            {
+                this.id=id;
+                this.title=title;
+                this.description=desc;
+                this.unitPrice=price;
+                this.totleQuantity=quantity;
+            }
+
+            show(){
+                console.log(this);
+            }
+        }
+
+        let pro1 = new Product(1,"Rose","valentine flower",50,100);
+        pro1.show();
+
+        class Person{
+            constructor(id, firstName, lastName){
+                this.id= id;
+                this.fname=firstName;
+                this.lname=lastName;
+            }
+
+            show(){
+                console.log(this.id + " "+this.fname+" "+this.lname);
+            }
+        }
+
+        
+    </script>
+</body>
+</html>

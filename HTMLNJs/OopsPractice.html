@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+</head>
+
+<body>
+    <script>
+
+
+        class Point {
+            constructor(x, y) {
+
+                this.x = x;
+                this.y = y;
+            }
+            show() {
+                console.log("x =" + this.x + "    y= " + this.y);
+            }
+
+        }
+
+        class Shape extends Point {
+            constructor(x, y, thickness, color) {
+                super(x, y);
+                this.thickness = thickness;
+                this.color = color;
+            }
+
+            show() {
+                console.log("start point = " + this.x + " end point = " + this.y + " thickness : " + this.thickness + " color : " + this.color);
+            }
+        }
+
+
+
+        class Line extends Shape {
+            constructor(x1, y1, x2, y2, thickness, color) {
+                super((x1 + x2) / 2, (y1 + y2) / 2, thickness, color);
+                this.startpoint = new Point(x1, y1);
+                this.endpoint = new Point(x2, y2);
+            }
+
+            show() {
+                console.log("Line object");
+                console.log("Start Point:");
+                this.startpoint.show();
+                console.log("End Point:");
+                this.endpoint.show();
+                console.log("thickness: " + this.thickness + ", color: " + this.color);
+            }
+        }
+
+
+        let l1 = new Line(12, 50, 24, 75, 2, "red");
+        l1.show();
+
+        /* class Rectangle extends Shape {
+            constructor(thickness, color, width, hight) {
+                super(thickness, color)
+                this.width = width;
+                this.hight = hight;
+
+            }
+
+            show() {
+                console.log("Rectangle object");
+
+                console.log("thickness:" + this.thickness + ", color=" + this.color + ", width=" + this.width + ", hight=" + this.hight);
+            }
+
+        }
+
+        let rec = new Rectangle(2, "blue", 100, 80);
+        rec.show(); */
+
+        class Rectangle extends Shape {
+            constructor(thickness, color, width, height) {
+                super(thickness, color); 
+                this.width = width;
+                this.height = height; 
+            }
+
+            show() {
+                console.log("Rectangle object");
+                console.log("thickness: " + this.thickness + ", color: " + this.color + ", width: " + this.width + ", height: " + this.height);
+            }
+        }
+
+        // Example usage
+        let rec = new Rectangle(2, "blue", 100, 80);
+        rec.show();
+
+
+    </script>
+</body>
+
+</html>
