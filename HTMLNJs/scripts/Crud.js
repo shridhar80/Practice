@@ -1,55 +1,59 @@
-console.log("from crud.js");
+
+// service logic for CRUD Operations
 class ProductService{
     constructor(){
         this.products=[];
     }
- 
+
     getAll(){
+        console.log(this.products);
         return this.products;
+       
     }
- 
+
     getById(productId){
        const product= this.products.find(p=>p.id === productId)
        return product;
     }
- 
+
     create(product){
         this.products.push(product);
+        console.log(this.products);
+      /*   let prd = JSON.stringify(this.products);
+        localStorage.setItem("products", prd) */
     }
- 
+
     update(product){
- 
-         const prod = this.products.find(p=> p.id === product.id);
-        if(prod ==true)
-        {
-           this.products[prod] = product;
-        } 
-           else {
+        const productIndex = this.products.findIndex(p => p.id === product.id);
+        if (productIndex === -1) {
             console.log("Product not found with id " + product.id);
+            return null;
         }
-        
- 
+        this.products[productIndex] = product;
+        return product;
     }
- 
+
     remove(productId){
         const productIndex=this.products.findIndex(p=>p.id ==productId);
         if(productIndex === -1){
             console.log("Product not found with id "+ productId)
         }
         //remove the product from the array
-        const deletedProduct=this.products.slice(productIndex,1)[0];
-        return deletedProduct;
+        //this.products.splice(productIndex,1);
+        this.products=this.products.filter( (product)=>(product.id !== productId));
+        
     }
 }
- 
-document.getElementById('update').addEventListener('click', () => {
-    const product = {
-        id: parseInt(document.getElementById('id').value),
-        title: document.getElementById('title').value,
-        description: document.getElementById('description').value,
-        unitPrice: parseFloat(document.getElementById('unitprice').value),
-        stockAvailable: parseInt(document.getElementById('stockavailable').value)
-    };
-    productService.update(product);
-    console.log("Product updated", product);
-});
+
+
+/*let svc=new ProductService();
+console.log(svc.getAll());
+let theProduct1={ id:12, title:"gerbera", description:"wedding Flower",unitprice:5, stackavailable:9000};
+svc.create(theProduct1);
+
+
+let theProduct2={ id:12, title:"rose", description:"valentine Flower",unitprice:15, stackavailable:19000};
+svc.create(theProduct2);
+console.log(svc.getAll());
+
+*/
