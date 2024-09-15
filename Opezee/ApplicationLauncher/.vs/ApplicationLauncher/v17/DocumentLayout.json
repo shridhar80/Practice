@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75624A6D-B111-4834-AC76-470E6C8FC5D3}|ApplicationLauncher\\ApplicationLauncher.csproj|d:\\tap\\practice\\opezee\\applicationlauncher\\applicationlauncher\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75624A6D-B111-4834-AC76-470E6C8FC5D3}|ApplicationLauncher\\ApplicationLauncher.csproj|solutionrelative:applicationlauncher\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75624A6D-B111-4834-AC76-470E6C8FC5D3}|ApplicationLauncher\\ApplicationLauncher.csproj|D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\applicationlauncher\\models\\applicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75624A6D-B111-4834-AC76-470E6C8FC5D3}|ApplicationLauncher\\ApplicationLauncher.csproj|solutionrelative:applicationlauncher\\models\\applicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75624A6D-B111-4834-AC76-470E6C8FC5D3}|ApplicationLauncher\\ApplicationLauncher.csproj|D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\applicationlauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75624A6D-B111-4834-AC76-470E6C8FC5D3}|ApplicationLauncher\\ApplicationLauncher.csproj|solutionrelative:applicationlauncher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75624A6D-B111-4834-AC76-470E6C8FC5D3}|ApplicationLauncher\\ApplicationLauncher.csproj|D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\applicationlauncher\\views\\application\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75624A6D-B111-4834-AC76-470E6C8FC5D3}|ApplicationLauncher\\ApplicationLauncher.csproj|solutionrelative:applicationlauncher\\views\\application\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationConfig.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\ApplicationLauncher\\Models\\ApplicationConfig.cs",
+              "RelativeDocumentMoniker": "ApplicationLauncher\\Models\\ApplicationConfig.cs",
+              "ToolTip": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\ApplicationLauncher\\Models\\ApplicationConfig.cs",
+              "RelativeToolTip": "ApplicationLauncher\\Models\\ApplicationConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:50:30.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\ApplicationLauncher\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationLauncher\\Program.cs",
+              "ToolTip": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\ApplicationLauncher\\Program.cs",
+              "RelativeToolTip": "ApplicationLauncher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T20:19:19.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\ApplicationLauncher\\Views\\Application\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApplicationLauncher\\Views\\Application\\Index.cshtml",
+              "ToolTip": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\ApplicationLauncher\\Views\\Application\\Index.cshtml",
+              "RelativeToolTip": "ApplicationLauncher\\Views\\Application\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T20:18:22.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\ApplicationLauncher\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "ApplicationLauncher\\Controllers\\ApplicationController.cs",
+              "ToolTip": "D:\\TAP\\Practice\\Opezee\\ApplicationLauncher\\ApplicationLauncher\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "ApplicationLauncher\\Controllers\\ApplicationController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T20:17:05.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

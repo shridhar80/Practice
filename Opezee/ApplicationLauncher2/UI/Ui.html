@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Application Launcher</title>
+    <link rel="stylesheet" href="Ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+<body>
+    <div >
+      <!--   using section and article to devide screen as per requirement -->
+        <section>
+        <article>
+        <div id="app-list" class="app-grid">
+             <!--   get apps dyanamically -->
+        </div>
+        <div>
+            <div id="loading-screen" class="loading-screen hidden">
+                <h3>Loading...</h3>
+                <div>
+                    <button id="homescreen-button"> HOME </button>
+                </div>
+            </div>
+           
+        </div>
+        
+        <button id="settings-button"><i class="fa fa-gear" style="font-size:48px"></i></button>
+    </article>
+    </section>
+    </div>
+
+
+    <div id="settings-screen" class="settings-screen hidden">
+        <h1>Applications</h1>
+        <div id="app-list-settings">
+          <!--   get apps dyanamically -->
+        </div>
+        <div>
+            <button id="add-app-button">Add</button>
+            <input type="file" id="app-file-selector" class="hidden" accept=".exe">
+        </div>
+        <button id="home-button"> <i class="fa fa-home" style="font-size:48px"></i></button>
+    </div>
+
+    
+    <script src="Ui.js"></script>
+</body>
+</html>

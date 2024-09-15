@@ -1,0 +1,7 @@
+Part 1–Serversetup : Created .net core mvc app. created model class with required properties.
+Created controller with required action methods to launch applications. Created view with input tags and launch button. As per documentation by giving application path and parameters the desired app is opened. (time : 4-5 hrs)
+
+Part 2–UI/UX : Created asp.net web app added required dependencies. Added model class with required properties. Created controller with required api actions to get apps, get icons, launch app, close app. Generated list of applications. As I using hard coded app list so that added Images folder for icons. Added cors to enable and configure Cross-Origin Resource Sharing (CORS). Used HTML, CSS, JavaScript, jQuery for front end. Used font awesome to use home and setting icons. At the end able to get app list, on click of app icon loading screen displays, on click of home button close the opened app and navigate back to home. (time : 5-6 hrs)
+ 
+Part 3–Settings : On click of setting icon navigate to setting page. After that need to perform add and remove app actions. So that required api created to add and delete apps in controller. To navigate home screen home icon is used. At the it works as expected. (time : 5-6 hrs)
+ 
