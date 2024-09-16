@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import List from './components/List';
+import Login from './components/Login';
 
 
 function App() {
@@ -25,7 +27,8 @@ function App() {
         </button>
        
       </div>
-      
+      <List/>
+      <Login/>
     </>
   )
 }
