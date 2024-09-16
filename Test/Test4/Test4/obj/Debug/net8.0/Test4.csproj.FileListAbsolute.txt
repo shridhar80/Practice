@@ -1,0 +1,15 @@
+D:\Practice\Practice\Test\Test4\Test4\bin\Debug\net8.0\Test4.exe
+D:\Practice\Practice\Test\Test4\Test4\bin\Debug\net8.0\Test4.deps.json
+D:\Practice\Practice\Test\Test4\Test4\bin\Debug\net8.0\Test4.runtimeconfig.json
+D:\Practice\Practice\Test\Test4\Test4\bin\Debug\net8.0\Test4.dll
+D:\Practice\Practice\Test\Test4\Test4\bin\Debug\net8.0\Test4.pdb
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\Test4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\Test4.AssemblyInfoInputs.cache
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\Test4.AssemblyInfo.cs
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\Test4.csproj.CoreCompileInputs.cache
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\Test4.sourcelink.json
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\Test4.dll
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\refint\Test4.dll
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\Test4.pdb
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\Test4.genruntimeconfig.cache
+D:\Practice\Practice\Test\Test4\Test4\obj\Debug\net8.0\ref\Test4.dll
