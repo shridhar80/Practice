@@ -27,7 +27,7 @@ function App() {
         </button>
        
       </div>
-      <List/>
+      {/* <List/> */}
       <Login/>
     </>
   )
