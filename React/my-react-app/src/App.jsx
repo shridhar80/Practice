@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import List from './components/List';
 import Login from './components/Login';
+import Register from './components/Register';
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
       </div>
       {/* <List/> */}
       <Login/>
+      <Register/>
     </>
   )
 }
