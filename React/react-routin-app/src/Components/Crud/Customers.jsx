@@ -8,6 +8,7 @@ const Customers=()=>{
  
     return(
         <>
+        <Link to={`/customers/insert`} >Insert New Customer</Link>
         <h3>Top ten Customers</h3>
             <ul>
                 {

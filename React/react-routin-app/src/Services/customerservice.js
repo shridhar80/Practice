@@ -28,11 +28,12 @@ const customerService = {
 
     remove(id){
         customers=customers.filter(user=> user.id !== id);
-        customers.push(theUser);
+        customers.push(customers);
     },
 
-    update(id){
-        customers= customers.filter((theUser)=>theUser.id !== id);
+    update(theCustomer){
+        customers= customers.filter(Customer=> Customer.id !== theCustomer.id);
+        customers.push(theCustomer);
     }
 }
 

@@ -4,11 +4,11 @@ import customerservice from "../../Services/customerservice";
  
 const Customer=()=>{
     const { id } = useParams();
-    const [customer, setcustomer] = useState({ id: 1, email: 'ravi.tambade@transflower.in',  firstname:"Ravi", lastname:"Tambade",contactnumber:"9881735801" });
+    const [customer, setcustomer] = useState('');
    
-    console.log({customer});
+    console.log(customer);
     useEffect(() => {
-        const existingcustomer =customerservice.getAllCustomers( parseInt(id));
+        const existingcustomer =customerservice.getCustomerById( parseInt(id));
         if (existingcustomer) {
             setcustomer(existingcustomer);
         }
@@ -20,7 +20,7 @@ const Customer=()=>{
          <p> Name: {customer.firstname} {customer.lastname}</p>
          <p>Email: {customer.email}</p>
          <p>Contact Nubmer:{customer.contactnumber}</p>
-         <p>Location: {customer.location}</p>
+        
         </>
     )
 };
