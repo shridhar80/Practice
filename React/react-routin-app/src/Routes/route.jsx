@@ -31,7 +31,7 @@ const AppRoute = () =>(
       
         </Route>
 
-        <Route path="customers" element={<Customers/>}/>
+        <Route path="customers" element={<Customers/>}></Route>
         <Route path="customers/details/:id" element={<Customer/>}/>
         <Route path="customers/update/:id" element={ <CustomerUpdate/>}/>
         <Route path="customers/delete/:id" element={<CustomerDelete/>}/>
