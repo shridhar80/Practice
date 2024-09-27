@@ -1,4 +1,4 @@
-// src/services/CustomerService.js
+
 const initialCustomers = [
     { id: 1, email: 'ravi.tambade@transflower.in',  firstName: "Ravi", lastName: "Tambade", contactNumber: "9881735801" },
     { id: 2, email: 'shubhangi.tambade@transflower.in',  firstName: "Shubhangi", lastName: "Tambade", contactNumber: "9881735801" },

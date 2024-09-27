@@ -1,4 +1,4 @@
-// src/routes/Routes.jsx
+
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Customers from '../components/Customers';
 import CustomerDetails from '../components/CustomerDetails';

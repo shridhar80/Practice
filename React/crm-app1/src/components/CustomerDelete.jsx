@@ -1,4 +1,4 @@
-// src/components/CustomerDelete.jsx
+
 import { useParams, useNavigate } from 'react-router-dom';
 import { useContext } from 'react';
 import { CustomerContext } from '../context/CustomerContext';

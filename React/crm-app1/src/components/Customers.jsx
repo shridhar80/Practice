@@ -1,4 +1,4 @@
-// src/components/Customers.jsx
+
 import { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { CustomerContext } from '../context/CustomerContext';

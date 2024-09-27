@@ -1,4 +1,4 @@
-// src/components/CustomerUpdate.jsx
+
 import { useState, useContext } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { CustomerContext } from '../context/CustomerContext';

@@ -1,4 +1,4 @@
-// src/App.js
+
 import { CustomerProvider } from './context/CustomerContext';
 import AppRoutes from './routes/Routes';
 
