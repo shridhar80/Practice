@@ -27,7 +27,7 @@ const CustomerDelete=()=>{
     return(
         <>
         <h3>Customer Details</h3>
-         <p> Name: {customer.firstname} {customer.lastname}</p>
+         <p> Name: {customer.firstName} {customer.lastname}</p>
          <p>Email: {customer.email}</p>
          <p>Contact Nubmer:{customer.contactnumber}</p>
          <h3>Do you want to delete  the Customer ?</h3>

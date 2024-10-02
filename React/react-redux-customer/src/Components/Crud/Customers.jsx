@@ -5,11 +5,12 @@ import CustomerService from "../../Services/customerservice";
 const Customers=()=>{
  
     const customers= CustomerService.getAllCustomers();
+    console.log(customers)
  
     return(
         <>
         <Link to={`/customers/insert`} >Insert New Customer</Link>
-        <h3>Top ten Customers</h3>
+        <h3>Customers</h3>
             <ul>
                 {
                     customers.map(customer=>(
