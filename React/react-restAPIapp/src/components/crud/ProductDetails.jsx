@@ -37,7 +37,7 @@ export default ProductDetails; */
 
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import ProductServiceAxios from "../services/ProductServiceAxios";
+import ProductServiceAxios from "../../services/ProductServiceAxios";
 
 const ProductDetails = () => {
     const { id } = useParams();

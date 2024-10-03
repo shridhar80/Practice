@@ -69,7 +69,7 @@ export default AddProduct;  */
 
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import ProductServiceAxios from "../services/ProductServiceAxios";
+import ProductServiceAxios from "../../services/ProductServiceAxios";
 
 const AddProduct = () => {
     const nav = useNavigate();

@@ -57,7 +57,7 @@ export default ProductDelete; */
 
 import { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import ProductServiceAxios from "../services/ProductServiceAxios";
+import ProductServiceAxios from "../../services/ProductServiceAxios";
 
 const ProductDelete = () => {
     const { id } = useParams();

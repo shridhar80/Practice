@@ -1,9 +1,9 @@
 import { Route, Routes } from "react-router-dom";
-import ProductList from "../components/ProductsList";
-import ProductDetails from "../components/ProductDetails";
-import ProductDelete from "../components/Delete";
-import ProductUpdate from "../components/Update";
-import AddProduct from "../components/AddProuduct";
+import ProductList from "../components/crud/ProductsList";
+import ProductDetails from "../components/crud/ProductDetails";
+import ProductDelete from "../components/crud/Delete";
+import ProductUpdate from "../components/crud/Update";
+import AddProduct from "../components/crud/AddProuduct";
 
 const AppRoute = () =>(
     <Routes>
