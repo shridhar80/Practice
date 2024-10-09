@@ -1,0 +1,15 @@
+D:\Practice\Practice\C#\PrimeNumber\bin\Debug\net8.0\PrimeNumber.exe
+D:\Practice\Practice\C#\PrimeNumber\bin\Debug\net8.0\PrimeNumber.deps.json
+D:\Practice\Practice\C#\PrimeNumber\bin\Debug\net8.0\PrimeNumber.runtimeconfig.json
+D:\Practice\Practice\C#\PrimeNumber\bin\Debug\net8.0\PrimeNumber.dll
+D:\Practice\Practice\C#\PrimeNumber\bin\Debug\net8.0\PrimeNumber.pdb
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\PrimeNumber.AssemblyInfoInputs.cache
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\PrimeNumber.AssemblyInfo.cs
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\PrimeNumber.sourcelink.json
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\PrimeNumber.dll
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\refint\PrimeNumber.dll
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\PrimeNumber.pdb
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\PrimeNumber.genruntimeconfig.cache
+D:\Practice\Practice\C#\PrimeNumber\obj\Debug\net8.0\ref\PrimeNumber.dll
