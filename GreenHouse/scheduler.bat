@@ -1,0 +1,1 @@
+sqlcmd -S DESKTOP-DQ7GI4K -d TFLGreenhouse -E -i "D:\Practice\Practice\GreenHouse\ExecutQueryUsingBatFile.sql"

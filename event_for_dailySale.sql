@@ -22,7 +22,7 @@ DELIMITER ;
 
 drop PROCEDURE update_daily_sales;
 
-
+select * from daily_sales_report;
 
 show events;
 drop event daily_sales_report_event;
@@ -37,3 +37,8 @@ ON SCHEDULE EVERY 1 MINUTE
 STARTS CURRENT_TIMESTAMP
 DO
     call update_daily_sales();
+    
+    
+    
+SHOW EVENTS FROM tflecommers;   
+ ALTER EVENT daily_sales_report_event DISABLE;
