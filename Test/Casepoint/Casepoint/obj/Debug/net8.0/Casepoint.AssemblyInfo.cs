@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Casepoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5af975941b4e6c36b609c5f84422040505447582")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb4afa5ebdf9499267019822cf77547c6df7f99")]
 [assembly: System.Reflection.AssemblyProductAttribute("Casepoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Casepoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

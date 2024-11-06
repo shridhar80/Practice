@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ukcI6LfCnuBupwwry+PgWj+G9npbeG77la5iOFXADgUNgn4n8LamDzBFnA32xiC3KdYlR3uxiIco6ckKmeDstw==",
+  "dgSpecHash": "c+UsOuPAPQE+wsF5pme5v6GU02JNEcfS+fe/esDN10MQNfjEpeJcRxNzaLZnX29hkOBoE/7/ThQlxo5zx3mvdw==",
   "success": true,
-  "projectFilePath": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj",
+  "projectFilePath": "D:\\Practice\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj": {}
+    "D:\\Practice\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj": {}
   },
   "projects": {
-    "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj": {
+    "D:\\Practice\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj",
+        "projectUniqueName": "D:\\Practice\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj",
         "projectName": "CrudMvcEntity",
-        "projectPath": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj",
+        "projectPath": "D:\\Practice\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\CrudMvcEntity.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\TAP\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\obj\\",
+        "outputPath": "D:\\Practice\\Practice\\CrudMvcEntityFramework\\CrudMvcEntity\\CrudMvcEntity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
