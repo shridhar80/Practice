@@ -1,0 +1,15 @@
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.exe
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.deps.json
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.runtimeconfig.json
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.dll
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.pdb
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.AssemblyInfoInputs.cache
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.AssemblyInfo.cs
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.sourcelink.json
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.dll
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\refint\TestConsoleApp.dll
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.pdb
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.genruntimeconfig.cache
+D:\Practice\Practice\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\ref\TestConsoleApp.dll

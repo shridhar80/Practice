@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\Practice\\C#\\OopsImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15F1F70A-1759-49F9-AC1A-DEFAD0DB2968}|OopsImplementation\\OopsImplementation.csproj|d:\\practice\\practice\\c#\\oopsimplementation\\oopsimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F1F70A-1759-49F9-AC1A-DEFAD0DB2968}|OopsImplementation\\OopsImplementation.csproj|solutionrelative:oopsimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F1F70A-1759-49F9-AC1A-DEFAD0DB2968}|OopsImplementation\\OopsImplementation.csproj|d:\\practice\\practice\\c#\\oopsimplementation\\oopsimplementation\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F1F70A-1759-49F9-AC1A-DEFAD0DB2968}|OopsImplementation\\OopsImplementation.csproj|solutionrelative:oopsimplementation\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F1F70A-1759-49F9-AC1A-DEFAD0DB2968}|OopsImplementation\\OopsImplementation.csproj|d:\\practice\\practice\\c#\\oopsimplementation\\oopsimplementation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F1F70A-1759-49F9-AC1A-DEFAD0DB2968}|OopsImplementation\\OopsImplementation.csproj|solutionrelative:oopsimplementation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F1F70A-1759-49F9-AC1A-DEFAD0DB2968}|OopsImplementation\\OopsImplementation.csproj|d:\\practice\\practice\\c#\\oopsimplementation\\oopsimplementation\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F1F70A-1759-49F9-AC1A-DEFAD0DB2968}|OopsImplementation\\OopsImplementation.csproj|solutionrelative:oopsimplementation\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Practice\\Practice\\C#\\OopsImplementation\\OopsImplementation\\Car.cs",
+              "RelativeDocumentMoniker": "OopsImplementation\\Car.cs",
+              "ToolTip": "D:\\Practice\\Practice\\C#\\OopsImplementation\\OopsImplementation\\Car.cs",
+              "RelativeToolTip": "OopsImplementation\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:23:49.188Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "D:\\Practice\\Practice\\C#\\OopsImplementation\\OopsImplementation\\IVehicle.cs",
+              "RelativeDocumentMoniker": "OopsImplementation\\IVehicle.cs",
+              "ToolTip": "D:\\Practice\\Practice\\C#\\OopsImplementation\\OopsImplementation\\IVehicle.cs",
+              "RelativeToolTip": "OopsImplementation\\IVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:19:47.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Practice\\Practice\\C#\\OopsImplementation\\OopsImplementation\\Vehicle.cs",
+              "RelativeDocumentMoniker": "OopsImplementation\\Vehicle.cs",
+              "ToolTip": "D:\\Practice\\Practice\\C#\\OopsImplementation\\OopsImplementation\\Vehicle.cs",
+              "RelativeToolTip": "OopsImplementation\\Vehicle.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:07:27.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\Practice\\C#\\OopsImplementation\\OopsImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "OopsImplementation\\Program.cs",
+              "ToolTip": "D:\\Practice\\Practice\\C#\\OopsImplementation\\OopsImplementation\\Program.cs",
+              "RelativeToolTip": "OopsImplementation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:34:11.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

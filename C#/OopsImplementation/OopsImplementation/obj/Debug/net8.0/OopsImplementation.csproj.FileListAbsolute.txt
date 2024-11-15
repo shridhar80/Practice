@@ -1,0 +1,15 @@
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\bin\Debug\net8.0\OopsImplementation.exe
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\bin\Debug\net8.0\OopsImplementation.deps.json
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\bin\Debug\net8.0\OopsImplementation.runtimeconfig.json
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\bin\Debug\net8.0\OopsImplementation.dll
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\bin\Debug\net8.0\OopsImplementation.pdb
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\OopsImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\OopsImplementation.AssemblyInfoInputs.cache
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\OopsImplementation.AssemblyInfo.cs
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\OopsImplementation.csproj.CoreCompileInputs.cache
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\OopsImplementation.sourcelink.json
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\OopsImplementation.dll
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\refint\OopsImplementation.dll
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\OopsImplementation.pdb
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\OopsImplementation.genruntimeconfig.cache
+D:\Practice\Practice\C#\OopsImplementation\OopsImplementation\obj\Debug\net8.0\ref\OopsImplementation.dll
